@@ -104,3 +104,9 @@ Characters:
   + understood God's sovereignty
   + but still emotionally reluctant
   + trust Rebekah to make her own choice
++ but hero of the story is always God
+  + not about Abe's faith, servant's dilligence, Rebekah's bravery, Isaac's quiet times, etc.
+  + God's faithfulness to His promise
+  + His plan from Abe to Isaac to Jacob
+  + through both royal and priestly lines, on down to Jesus
+  + through whom all nations are blessed
