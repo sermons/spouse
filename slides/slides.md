@@ -2,6 +2,61 @@
 # Finding a Spouse <br> in God's <br> Steadfast Love
 ## Genesis 24
 
+---
+[1](# "ref")
+Now Abraham was old, well advanced in years. <br>
+And the Lord had blessed Abraham in all things. 
+ 
+[2](# "ref")
+And Abraham said to his servant, <br>
+the oldest of his household, <br>
+who had charge of all that he had
+
+---
+Put your hand under my thigh, <br>
+[3](# "ref")
+that I may make you swear by the Lord, <br>
+the God of heaven and God of the earth, 
+
+that you will not take a wife for my son <br>
+from the daughters of the Canaanites, <br>
+among whom I dwell, 
+
+[4](# "ref")
+but will go to my country and to my kindred, <br>
+and take a wife for my son Isaac.
+
+---
+[5](# "ref")
+The servant said to him, “Perhaps the woman <br>
+may not be willing to follow me to this land. <br>
+Must I then take your son <br>
+back to the land from which you came?” 
+
+[6](# "ref")
+Abraham said to him, “See to it <br>
+that you do not take my son back there. 
+
+---
+[7](# "ref")
+The Lord, the God of heaven, <br>
+who took me from my father's house <br>
+and from the land of my kindred, 
+
+and who spoke to me and swore to me, <br>
+‘To your offspring I will give this land,’ 
+
+he will send his angel before you, <br>
+and you shall take a wife for my son from there. 
+
+---
+[8](# "ref")
+But if the woman is not willing to follow you, <br>
+then you will be free from this oath of mine; <br>
+only you must not take my son back there.”
+
+---
+
 >>>
 + 1-4 Abraham's charge
   + Abe old, established: now worrying about son
