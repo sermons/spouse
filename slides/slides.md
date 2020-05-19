@@ -122,6 +122,83 @@ Send me away that I may go to my master.”
 + who is LORD: God of heaven+earth
 
 ---
+(1) Principle
+
+>>>
++ from beginning all knew Creator
+  + but quickly forgot / left
++ 1 family line that remembered God (ch5)
+  + 10 gens / 1000 yrs, Adam to Noah (birth)
+  + each gen teaching from father to son
+
+---
+Noah
+
+>>>
++ God had mercy on Noah
+  + but after flood, mankind again left God
+  + Canaanites: under God's curse
++ 1 family line that remembered God (ch10)
+  + 10 gens / 1000 yrs, Noah (birth) to Abe
+
+---
+Abraham
+
+>>>
++ God had mercy on Abe: promise
+  + Abe - Isaac - Jacob
+  + estab. nation of Israel
+  + chosen by God in His mercy
+  + to remember the Creator
+  + and pass on to next gen
+
+---
+Isaac
+
+>>>
++ so for Isaac:
+  + "marry own country/kin"
+  + find a wife who will help you to
+  + teach next gen to remember God
+  + good wife so important!
++ same thing w/next gen Jacob/Esau 
+  + Jacob went to Haran for wife
+  + Esau married Hittites
++ not **legalistic** requirement:
+  + **predates** Moses' law!
++ from the **beginning**, God has **revealed** Himself
+  + **chosen** to have mercy 
+  + on a **remnant** who remembered Him
++ so **revere** Him as holy in our homes
+  + **estab.** family w/spouse who also reveres Him
+
+---
+for us today
+
+>>>
++ raising godly **family** still critically imp.
++ **all** nations blessed via Seed of Abe
+  + through whom **mystery** of gospel revealed:
++ we who are **not** part of family line of Abe
+  + have been **adopted** in by grace
++ continue to **pass on** the remembrance of Creator
++ Those of us who weren't **taught** by our parents
+  + have **mentors** / teachers in the faith
+  + just as **Paul** was spiritual father to many
++ So when **looking** for spouse
+  + whether for self or for child
++ don't just **tick** the checkbox:
+  + attends **church**, got baptised
++ Find someone who **remembers** the Creator
+  + and will help you **teach** to children
++ that He is **holy** + righteous
+  + created us for **fellowship** w/Him
++ teach to **fear** + obey LORD
+  + **repent** of our sins
++ show **mercy** to others
+  + as **Christ** has to us
+
+---
 (5-9 contingency plan, God's angel)
 
 >>>
@@ -133,6 +210,12 @@ Send me away that I may go to my master.”
 + free from oath: clean, empty cup, innocent of wrongdoing
 + Abe's goal: keep Isaac here in promised land
 + who is LORD: sent Abe, gave promise
+
+---
+(2) Promise
+
+>>>
++ "To your offspring I will give this land"
 
 ---
 (10-14 servant's search)
@@ -148,6 +231,12 @@ Send me away that I may go to my master.”
   + 20gal/camel: major effort
 + servant's goal: success, God's love toward master
 + who is LORD: God of Abe, able to grant success, chesed love
+
+---
+(3) Practise
+
+>>>
++ 
 
 ---
 (15-21 Rebekah at the well)
