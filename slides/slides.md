@@ -103,7 +103,7 @@ since the Lord has prospered my way. <br>
 Send me away that I may go to my master.” 
 
 ---
-(1-4 Abraham's charge)
+Intro: Abe (v1)
 
 >>>
 + Abe 140yo, still 35yrs left
@@ -111,18 +111,27 @@ Send me away that I may go to my master.”
   + Ishmael 54yo, already sent away
   + now worrying about Isaac (40yo)
   + marry own country/kin
+
+---
+Intro: Eliezer (v2)
+
+>>>
 + servant: probably Eliezer of Damascus
   + with Abe for longer than Isaac alive
   + faithful + trusted
+
+---
+Intro: The Task (v3-4)
+
+>>>
 + hand under thigh: solemnity of oath
   + greater responsibility than all others
 + Abe's goal: believing wife for Isaac
   + already sent Hagar+Ishmael away (as per God's command, Gal4:30-31)
   + it was Hagar who found an Egyptian wife for Ishmael, not Abe
-+ who is LORD: God of heaven+earth
 
 ---
-(1) Principle
+(1) Principle (v1-4):
 
 >>>
 + from beginning all knew Creator
@@ -146,18 +155,18 @@ Abraham
 
 >>>
 + God had mercy on Abe: promise
-  + Abe - Isaac - Jacob
++ Abe - Isaac - Jacob
   + estab. nation of Israel
-  + chosen by God in His mercy
++ chosen by God in His mercy
   + to remember the Creator
-  + and pass on to next gen
++ and pass on to next gen
+  + God of heaven + earth
 
 ---
 Isaac
 
 >>>
-+ so for Isaac:
-  + "marry own country/kin"
++ "marry own country/kin"
   + find a wife who will help you to
   + teach next gen to remember God
   + good wife so important!
@@ -173,7 +182,7 @@ Isaac
   + **estab.** family w/spouse who also reveres Him
 
 ---
-for us today
+For us today:
 
 >>>
 + raising godly **family** still critically imp.
@@ -199,79 +208,80 @@ for us today
   + as **Christ** has to us
 
 ---
-(5-9 contingency plan, God's angel)
+(2) Promise (v5-8)
+
+2a: The Promise-Giver (v7a)
 
 >>>
-+ singular: implying not ranking candidates, going down list
-  + God will prepare one woman for Isaac
-  + but she has freewill to make choice
-+ Abe: stick to God's promise
-+ Abe: sure that God will provide
-+ free from oath: clean, empty cup, innocent of wrongdoing
-+ Abe's goal: keep Isaac here in promised land
-+ who is LORD: sent Abe, gave promise
++ "God of heaven": 
+  + Creator, all-powerful
++ "took me from land of my kin" (12:1):
+  + sent Abe here to Canaan
+  + in you all families of earth will be blessed
++ "To your offspring I will give this land" (12:7)
 
 ---
-(2) Promise
+2b: Assurance of Faith (v7b)
 
 >>>
-+ "To your offspring I will give this land"
++ "What if the woman isn't willing?"
+  + "He will send His angel before you"
+  + "You shall take a wife for my son from there"
++ no **doubt** that God would provide God-fearing wife
 
 ---
-(10-14 servant's search)
+2c: Contingency Plan (v8)
+
+>>>
++ "the woman": **singular**
+  + imply not **ranking** candidates / going down list
++ God will prepare **one** woman for Isaac
+  + but she has **freewill** to refuse God's plan
++ **free** from oath: clean, empty cup, innocent of wrongdoing
++ not: take Isaac to **Nahor** for believing wife
+  + but: let Isaac marry **Canaanite**
++ trust that God would enable Isaac to continue family line
+  + remembering Creator
++ must keep Isaac **here** in promised land
++ but! contingency plan won't happen; God will provide
+
+---
+(3) Practise (v10-14)
+
+3a: Journey (v10)
 
 >>>
 + long distance, weeks of journey: 
   + Canaan: likely Beersheba, Hebron, or Beer-Lahai-Roi
   + Nahor: Aram-Naharaim, NW Mesopotamia
-  + many supplies, gifts, need whole team: 10 camels
++ many supplies, gifts, need whole team: 10 camels
 + would be self-sufficient, able to draw water for camels
-+ but strategic in going to well at evening
++ strategic in going to well at evening
+
+---
+3b: Prayer (v12-14)
+
+>>>
++ who is LORD: 
+  + God of Abe
+  + able to grant success
+  + the One who appoints spouse
+  + shows chesed love
 + filtering criteria to narrow the selection
   + 20gal/camel: major effort
-+ servant's goal: success, God's love toward master
-+ who is LORD: God of Abe, able to grant success, chesed love
 
 ---
-(3) Practise
-
->>>
-+ 
-
----
-(15-21 Rebekah at the well)
-
->>>
-+ gazed in silence: still not sure, don't know her family bg
-
----
-(22-28 servant to Rebekah)
+3c: Response (v22-28)
 
 >>>
 + gifts as token of earnestness
-+ ask her family
++ ask about her family
 + immediate response: worship God
 + who is LORD: God of Abe, 
   + chesed love + truth to Abe
   + guidance to servant
-
----
-(29-33 Laban's invitation)
-
->>>
-+ hospitality to stranger
-+ protective of sister: why gifts?
-+ servant's goal: focus on the task first before food
-
----
-(34-49 servant's recounting)
-
->>>
-+ add Isaac's inheritance
-+ who is LORD: before whom Abe has walked
-  + prosper/success
-+ contingency: add choice of family
-+ will family show chesed love + truth to Abe?
++ (v33) focus on task first before food
++ (v49) will family show chesed love + truth to Abe?
 + tell me: turn right or left
   + respect choice either way
   + but need to know
@@ -303,6 +313,7 @@ for us today
 (Rebekah and afterward)
 
 >>>
++ not "happily ever after"
 + 20yrs infertility
 + kids w/diff personalities; parents w/favouritism
 + Rebekah not perfect, either:
