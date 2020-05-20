@@ -222,6 +222,9 @@ Application: looking for spouse
   + as **Christ** has to us
 
 ---
+Q: What is the **purpose** of marriage? 
+
+---
 (2) Promise (v5-8)
 
 2a: The Promise-Giver (v7a)
@@ -258,6 +261,9 @@ Application: looking for spouse
   + remembering Creator
 + must keep Isaac **here** in promised land
 + but! contingency plan won't happen; God will provide
+
+---
+Q: What are God's **promises** to me? 
 
 ---
 (3) Practise (v10-14)
