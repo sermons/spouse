@@ -268,15 +268,62 @@ Q: What are God's **promises** to me?
 ---
 (3) Practise (v10-14)
 
-3a: Journey (v10)
+>>>
++ most of us don't have dads **wealthy** enough
+  + to send **trusted** servant to find spouse
++ possible for **parents** to find spouse
+  + immense **responsibility**
++ truth is, in individualistic society,
+  + we no longer **know** our kids
+  + as well as we ought
+  + nor do we **pray** for them / marriage
+  + in the way we ought
++ e.g., **matchmakers**, church aunties
+  + or even now, want to help single friends:
++ but marriage is **serious**, lifelong
+  + sign of **God's** covenant love
++ not to be **trifled** with
+  + not, "oh, you two would be **cute** together"
+  + not so **I** take credit
++ so the task of finding a spouse
+  + now typically falls to the **individual**
++ so as we read Eliezer's **dedication** to his work
+  + apply **lessons** learned to
+  + the **person** looking for a spouse
++ many other **examples** in Bible:
+  + Adam (ch2)
+  + Jacob (ch29)
+  + Samson (Jdg14)
+  + Ruth
+  + Hosea
++ not all **positive** examples! 
+  + many **messed up** examples, too
++ in exploring Biblical **precedent**,
+  + discover it's not **how-to** guide
+  + for finding a spouse
+  + bc that isn't what's most **imp**
+  + focus is on **God's** faithfulness
+  + and chesed love
+
+---
+3a: Purpose (Journey) (v10)
 
 >>>
-+ long distance, weeks of journey: 
++ long distance, **weeks** of journey: 
   + Canaan: likely Beersheba, Hebron, or Beer-Lahai-Roi
   + Nahor: Aram-Naharaim, NW Mesopotamia
-+ many supplies, gifts, need whole team: 10 camels
-+ would be self-sufficient, able to draw water for camels
-+ strategic in going to well at evening
++ many supplies, gifts, need whole **team**: 10 camels
+  + would be **self-sufficient**
+  + able to draw water for camels
++ strategic in going to **well** at evening
++ earnest **intent**
+  + (v33) focus on task first before food
++ e.g., actually **praying** for a wife
+  + ack want to be married
++ not dreaming of what I **get** out of it
+  + meeting my needs, companionship, etc
++ but preparing for the **commitment**
+  + respect as equal but complementary
 
 ---
 3b: Prayer (v12-14)
@@ -284,23 +331,25 @@ Q: What are God's **promises** to me?
 >>>
 + who is LORD: 
   + God of Abe
-  + able to grant success
-  + the One who appoints spouse
-  + shows chesed love
+  + able to grant success (for Eliezer)
+  + the One who appoints spouse (for Isaac)
+  + shows chesed love (to Abe)
 + filtering criteria to narrow the selection
   + 20gal/camel: major effort
 
 ---
-3c: Response (v22-28)
+3c: Proposal (v22-49)
 
 >>>
-+ gifts as token of earnestness
-+ ask about her family
-+ immediate response: worship God
++ gifts as **token** of earnestness
+  + (not to buy favourable response)
++ ask about her **family**
++ immediate response: **worship** God
++ **explain** entire journey
+  + w/o **hiding** / duplicitous
 + who is LORD: God of Abe, 
   + chesed love + truth to Abe
   + guidance to servant
-+ (v33) focus on task first before food
 + (v49) will family show chesed love + truth to Abe?
 + tell me: turn right or left
   + respect choice either way
