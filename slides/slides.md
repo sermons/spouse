@@ -109,26 +109,35 @@ Intro: Abe (v1)
 + Abe 140yo, still 35yrs left
   + Sarah died 3yrs prior
   + Ishmael 54yo, already sent away
-  + now worrying about Isaac (40yo)
-  + marry own country/kin
++ now worrying about Isaac (40yo)
+  + knows how important a good **wife** is!
 
 ---
 Intro: Eliezer (v2)
 
 >>>
-+ servant: probably Eliezer of Damascus
-  + with Abe for longer than Isaac alive
++ main **character** of this story is:
+  + not **Rebekah**: does very little
+  + not **Isaac**: does zero!
++ majority of text is about the **servant**:
+  + (though even he's not the real main character)
++ probably **Eliezer** of Damascus (15:2)
+  + with Abe for **longer** than Isaac alive
   + faithful + trusted
++ now entrusted with even **greater** task
+  + than overseeing all Abe's possessions
 
 ---
 Intro: The Task (v3-4)
 
 >>>
-+ hand under thigh: solemnity of oath
-  + greater responsibility than all others
-+ Abe's goal: believing wife for Isaac
-  + already sent Hagar+Ishmael away (as per God's command, Gal4:30-31)
-  + it was Hagar who found an Egyptian wife for Ishmael, not Abe
++ hand under **thigh**: solemnity of oath
++ Abe's goal: believing **wife** for Isaac
++ Already sent Hagar+Ishmael away (ch21)
+  + as per God's command (Gal4:30-31)
++ Ishmael's wife **Egyptian**
+  + found by **Hagar**
+  + Abe had no hand in it
 
 ---
 (1) Principle (v1-4):
@@ -182,7 +191,7 @@ Isaac
   + **estab.** family w/spouse who also reveres Him
 
 ---
-For us today:
+Application: Godly family line
 
 >>>
 + raising godly **family** still critically imp.
@@ -194,6 +203,11 @@ For us today:
 + Those of us who weren't **taught** by our parents
   + have **mentors** / teachers in the faith
   + just as **Paul** was spiritual father to many
+
+---
+Application: looking for spouse
+
+>>>
 + So when **looking** for spouse
   + whether for self or for child
 + don't just **tick** the checkbox:
@@ -224,7 +238,7 @@ For us today:
 2b: Assurance of Faith (v7b)
 
 >>>
-+ "What if the woman isn't willing?"
++ "What if plan fails?"
   + "He will send His angel before you"
   + "You shall take a wife for my son from there"
 + no **doubt** that God would provide God-fearing wife
