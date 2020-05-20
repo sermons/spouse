@@ -263,6 +263,39 @@ Q: What is the **purpose** of marriage?
 + but! contingency plan won't happen; God will provide
 
 ---
+Application: God's promise to Abe
+
+>>>
++ here's where we **diverge** slightly from Isaac:
++ God gave Abe **specific** promise
+  + would become a vast **nation**
++ so he **knew** family line would continue
++ That promise has been **fulfilled**
+  + not only with **Isaac** + Rebekah
++ but ultimately in **Christ**
+  + extending **blessing** to all nations
+
+---
+Application: God's promises to us
+
+>>>
++ each of us does **not** have a promise from God
+  + that we will have **children**
+  + or have a **happy** marriage
+  + or even **get** married
++ but we **do** have God's promise through Christ
++ He established **times** + **places** for us to live (Ac)
++ **adopted** us into His family (Eph1)
++ granted **inheritance** in heaven
++ blessed us to become **blessing** to all nations
+
+---
+(aside: to happy singles)
+
+>>>
++ 1Cor7 undivided devotion to God
+
+---
 Q: What are God's **promises** to me? 
 
 ---
