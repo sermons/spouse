@@ -2,6 +2,9 @@
 # Finding a Spouse <br> in God's <br> Steadfast Love
 ## Genesis 24
 
+>>>
++ focus mostly on first **half**, for time's sake
+
 ---
 [1](# "ref")
 Now Abraham was old, well advanced in years. <br>
@@ -103,7 +106,26 @@ since the Lord has prospered my way. <br>
 Send me away that I may go to my master.” 
 
 ---
-Intro: Abe (v1)
+(examples of finding spouse)
+
+>>>
++ many other **examples** in Bible:
+  + Adam (ch2)
+  + Jacob (ch29)
+  + Samson (Jdg14)
+  + Ruth
+  + Hosea
++ not all **positive** examples! 
+  + many **messed up** examples, too
++ in exploring Biblical **precedent**,
+  + discover it's not **how-to** guide
+  + for finding a spouse
+  + bc that isn't what's most **imp**
+  + focus is on **God's** faithfulness
+  + and chesed love
+
+---
+Context: Abe (v1)
 
 >>>
 + Abe 140yo, still 35yrs left
@@ -113,7 +135,7 @@ Intro: Abe (v1)
   + knows how important a good **wife** is!
 
 ---
-Intro: Eliezer (v2)
+Context: Eliezer (v2)
 
 >>>
 + main **character** of this story is:
@@ -175,13 +197,13 @@ Abraham
 Isaac
 
 >>>
-+ "marry own country/kin"
-  + find a wife who will help you to
-  + teach next gen to remember God
-  + good wife so important!
-+ same thing w/next gen Jacob/Esau 
-  + Jacob went to Haran for wife
-  + Esau married Hittites
++ "marry own country / **kin**"
+  + find a **wife** who will help you to
+  + **teach** next gen to remember God
+  + good wife so **important**!
++ same thing w/next gen **Jacob** / Esau 
+  + Jacob went to relatives at **Haran** for wife
+  + Esau married **Hittites**
 + not **legalistic** requirement:
   + **predates** Moses' law!
 + from the **beginning**, God has **revealed** Himself
@@ -222,6 +244,12 @@ Application: looking for spouse
   + as **Christ** has to us
 
 ---
+(aside: to happy singles)
+
+>>>
++ 1Cor7 undivided devotion to God
+
+---
 Q: What is the **purpose** of marriage? 
 
 ---
@@ -230,20 +258,28 @@ Q: What is the **purpose** of marriage?
 2a: The Promise-Giver (v7a)
 
 >>>
-+ "God of heaven": 
-  + Creator, all-powerful
-+ "took me from land of my kin" (12:1):
-  + sent Abe here to Canaan
-  + in you all families of earth will be blessed
-+ "To your offspring I will give this land" (12:7)
++ "God of **heaven**": 
+  + **Creator**, all-powerful, capable
+  + 20 gens / 2000 yrs of history
++ "took me from land of my **kin**" (12:1):
+  + sent Abe here to **Canaan**, blessed
+  + **personally** exp. God's providence
+  + know God **cares** + leads
++ "To your **offspring** I will give this land" (12:7)
+  + specific promise of **family lineage**
+  + also underscores importance of Isaac **staying** in Canaan
++ Remember **who** it is who made the promise:
+  + Creator is **able** to fulfill
+  + Shepherd **cares** for us + leads us forward
+  + Father establishes our **family** + legacy
 
 ---
 2b: Assurance of Faith (v7b)
 
 >>>
-+ "What if plan fails?"
-  + "He will send His angel before you"
-  + "You shall take a wife for my son from there"
++ "What if plan **fails**?"
+  + "He **will** send His angel before you"
+  + "You **shall** take a wife for my son from there"
 + no **doubt** that God would provide God-fearing wife
 
 ---
@@ -290,12 +326,6 @@ Application: God's promises to us
 + blessed us to become **blessing** to all nations
 
 ---
-(aside: to happy singles)
-
->>>
-+ 1Cor7 undivided devotion to God
-
----
 Q: What are God's **promises** to me? 
 
 ---
@@ -323,20 +353,6 @@ Q: What are God's **promises** to me?
 + so as we read Eliezer's **dedication** to his work
   + apply **lessons** learned to
   + the **person** looking for a spouse
-+ many other **examples** in Bible:
-  + Adam (ch2)
-  + Jacob (ch29)
-  + Samson (Jdg14)
-  + Ruth
-  + Hosea
-+ not all **positive** examples! 
-  + many **messed up** examples, too
-+ in exploring Biblical **precedent**,
-  + discover it's not **how-to** guide
-  + for finding a spouse
-  + bc that isn't what's most **imp**
-  + focus is on **God's** faithfulness
-  + and chesed love
 
 ---
 3a: Purpose (Journey) (v10)
@@ -364,27 +380,29 @@ Q: What are God's **promises** to me?
 >>>
 + who is LORD: 
   + God of Abe
-  + able to grant success (for Eliezer)
-  + the One who appoints spouse (for Isaac)
-  + shows chesed love (to Abe)
-+ filtering criteria to narrow the selection
-  + 20gal/camel: major effort
+  + able to grant **success** (for Eliezer)
+  + the One who **appoints** spouse (for Isaac)
+  + shows chesed **love** (to Abe)
++ "Eliezer": my God is help
+  + Hebrew name, not Aramaic
++ **filtering** criteria to narrow the selection
+  + 20gal/camel: major **effort**
 
 ---
 3c: Proposal (v22-49)
 
 >>>
 + gifts as **token** of earnestness
-  + (not to buy favourable response)
+  + (not to **buy** favourable response)
 + ask about her **family**
 + immediate response: **worship** God
 + **explain** entire journey
   + w/o **hiding** / duplicitous
 + who is LORD: God of Abe, 
-  + chesed love + truth to Abe
-  + guidance to servant
-+ (v49) will family show chesed love + truth to Abe?
-+ tell me: turn right or left
+  + chesed **love** + **truth** to (Abe)
+  + **guidance** (to servant)
++ (v49) will family show chesed **love** + **truth** to Abe?
++ tell me: turn **right** or **left**
   + respect choice either way
   + but need to know
 
@@ -412,31 +430,38 @@ Q: What are God's **promises** to me?
 + immediately accepted her as wife, loved her, found comfort
 
 ---
-(Rebekah and afterward)
+Rebekah and afterward
 
 >>>
 + not "happily ever after"
-+ 20yrs infertility
-+ kids w/diff personalities; parents w/favouritism
-+ Rebekah not perfect, either:
-  + "ribqah": alluring, captivating, cord tied firmly
-  + as baby: so lovely, capture heart
-  + as adult: can be dangerous, use God-given beauty to persuade men to do her will
-+ Jacob ("grasps, deceives") / Israel ("wrestles w/God")
-  + inherited similar personality
-+ focus not on how hard Isaac searched for wife
-  + focus not on Reb being perfect wife for Isaac
-+ but God's chesed love: faithful to promise to Abe
-  + prepared wife for Isaac
++ 20yrs **infertility**
++ kids sibling **rivalry**
+  + parents w/**favouritism**
++ **Rebekah** not perfect wife, either:
+  + "ribqah": alluring, **captivating**, cord tied firmly
+  + as **baby**: so lovely, capture heart
+  + as **adult**: can be dangerous
+  + use God-given beauty to **bend** men to her will
++ **Jacob** ("grasps, deceives") / Israel ("wrestles w/God")
+  + inherited **similar** traits
+
+---
+
++ focus not on how hard **Isaac** searched for wife
+  + not on **Reb** being perfect wife for Isaac
++ but **God's** chesed love: 
+  + faithful to promise to **Abe**
+  + led **Eliezer** to success
+  + prepared wife for **Isaac**
   + and even more: generations afterward, whole nation
 
 ---
-(characters)
+Characters
 
 >>>
 + Abe: concern for son's marriage
   + but 100% assurance in God's promise
-+ servant: single-minded focus on assigned task
++ Eliezer: single-minded focus on assigned task
   + trusted God of Abe
   + only God can grant success
   + God's character is chesed love + truth/faithfulness
@@ -449,10 +474,14 @@ Q: What are God's **promises** to me?
   + understood God's sovereignty
   + but still emotionally reluctant
   + trust Rebekah to make her own choice
-+ but hero of the story is always God
-  + not about Abe's faith, servant's dilligence, Rebekah's bravery, Isaac's quiet times, etc.
-  + God's faithfulness to His promise
+
+---
+Hero of the story
+
+>>>
++ not about Abe's faith, servant's dilligence, Rebekah's bravery, Isaac's quiet times, etc.
++ God's faithfulness to His promise
   + His plan from Abe to Isaac to Jacob
-  + through both royal and priestly lines, on down to Jesus
++ through both royal and priestly lines, on down to Jesus
   + through whom all nations are blessed
 
