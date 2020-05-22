@@ -46,7 +46,7 @@
 + Hosea [(Hos 1-3)](# "ref")
 + Samson [(Jdg 14-16)](# "ref")
 
-["Ruth Gleans in the Fields of Boaz", <br> Bible Panorama, 1891](https://www.flickr.com/photos/internetarchivebookimages/14598288918 "caption")
+["Ruth Gleans in the Fields of Boaz", Bible Panorama, 1891](https://www.flickr.com/photos/internetarchivebookimages/14598288918 "caption")
 
 >>>
 + one of several **examples** in Bible,
