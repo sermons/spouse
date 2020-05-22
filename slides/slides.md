@@ -170,8 +170,8 @@ and take a wife for my son Isaac.
 When God **created** man, <br>
 he made him in the **likeness** of God.
 
-|---|---|---|---|
 | Adam | -- (130) -- | Seth | -- (105) -- |
+|---|---|---|---|
 | Enosh | -- (90) -- | Kenan | -- (70) -- |
 | Mahalalel | -- (65) -- | Jared | -- (162) -- |
 | Enoch | -- (65) -- | Methuselah | -- (187) -- |
@@ -292,9 +292,10 @@ and take a wife for my son Isaac.
   + and **chosen** to have mercy 
   + on a **remnant** who remembered Him
 + so we must **revere** Him as holy in our homes
-  + **estab.** family w/spouse who also reveres Him **//**
+  + **estab.** family w/spouse who also reveres Him &rarr;
 
 ---
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 This **mystery** is that <br>
 the **Gentiles** are fellow **heirs**, <br>
 members of the same **body**, 
@@ -303,6 +304,7 @@ and partakers of the **promise** <br>
 in Christ Jesus through the gospel.
 
 [Ephesians 3:6 (ESV)](# "ref")
+[Nancy, France. Rémi Walle](https://unsplash.com/photos/UOwvwZ9Dy6w "caption")
 
 >>>
 + What about us **today**?
@@ -318,7 +320,7 @@ in Christ Jesus through the gospel.
   + just as **Paul** was spiritual father to many
 
 ---
-(Application: looking for spouse)
+(application: looking for spouse)
 
 >>>
 + So when **looking** for spouse
@@ -350,9 +352,10 @@ in Christ Jesus through the gospel.
 + But: what principally defines you 
   + is not sth **you** can choose for yourself, either
 + You are, foremost, a **child** of God
-  + loved + adopted into His **family** **//**
+  + loved + adopted into His **family** &rarr;
 
 ---
+<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
 The **unmarried** or betrothed woman is <br>
 **anxious** about the things of the Lord, <br>
 how to be **holy** in **body** and **spirit**. 
@@ -361,6 +364,7 @@ But the **married** woman is anxious about **worldly** things, <br>
 how to please her **husband**
 
 [1 Corinthians 7:34 (ESV)](# "ref")
+[Olivia Snow](https://unsplash.com/photos/CPPFtCHY6mo "caption")
 
 >>>
 + you have a certain **freedom** as singles:
@@ -413,6 +417,7 @@ how to please her **husband**
   + God, the **Promise**-Keeper:
 
 ---
+<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
 The Lord, the God of **heaven**, <br>
 who **took me** from my father's house <br>
 and from the land of my kindred, 
@@ -421,6 +426,7 @@ and who **spoke to me** and swore to me, <br>
 ‘To your offspring I will give this land,’ 
 
 [Genesis 24:7 (ESV)](# "ref")
+[Avenue of the Giants, CA. John Towner](https://unsplash.com/photos/3Kv48NS4WUU "caption")
 
 >>>
 + (1) Creator, (2) Shepherd, (3) Father
@@ -439,10 +445,12 @@ and who **spoke to me** and swore to me, <br>
   + have same **confid** in God's power Abe did
 
 ---
+<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
 Then the Lord **appeared** to Abram and said,<br>
 “To your **offspring** I will give **this land**.”
 
 [Genesis 12:7 (ESV)](# "ref")
+[Avenue of the Giants, CA. John Towner](https://unsplash.com/photos/3Kv48NS4WUU "caption")
 
 >>>
 + specific promise of **family lineage**
@@ -459,10 +467,12 @@ Then the Lord **appeared** to Abram and said,<br>
 + Servant Eliezer is thinking **ahead**:
 
 ---
+<!-- .slide: <%= bg("Foster-Jacobs_Ladder.jpg") %> -->
 The servant said to him, “Perhaps **the woman** <br>
 may not be **willing** to follow me to this land."
 
 [Genesis 24:5 (ESV)](# "ref")
+[Jacobs Ladder, Foster 1897](http://associate.com/photos/Bible-Pictures--1897-W-A-Foster/page-0043-1.jpg "caption")
 
 >>>
 + not a sign of **lack** of faith, just
@@ -507,7 +517,7 @@ then you will be **free** from this oath of mine
 + but! won't need to **use** the contingency plan
   + God will **provide**, as He always has! 
 + So what about **us**?
-  + here's where **diverge** slightly from Isaac **//**
+  + here's where **diverge** slightly from Isaac &rarr;
 
 ---
 And I will make of you a **great nation**, ...
@@ -596,7 +606,7 @@ Or has he **spoken**, and will he not **fulfill** it?
   + have full **assurance** of faith, even if
   + God allows **choice** to reject His blessings.
 + Now turn to **Eliezer** the servant to learn
-  + how to take **action** in light of God's faithfulness **//**
+  + how to take **action** in light of God's faithfulness &rarr;
 
 ---
 And Abraham said to his **servant**, <br>
@@ -860,7 +870,7 @@ turn to the **right** hand or to the **left**.
 + as **adult**: can be dangerous
   + use God-given beauty to **bend** men to her will
 + **Jacob** ("grasps, deceives") / Israel ("wrestles w/God")
-  + easy to see where got **scheming** nature from **//**
+  + easy to see where got **scheming** nature from &rarr;
 
 ---
 **Blessed** be the Lord, <br>
