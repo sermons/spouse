@@ -490,21 +490,7 @@ and you **shall** take a wife for my son from there.
   + therefore must **act** in that assurance
 + This isn't about **wishing** something to happen
   + doesn't rest on **strength** of our conviction
-+ but on **faithfulness** of God to His promises:
-
----
-God is not **man**, that he should **lie**,<br>
-or a son of man, that he should **change** his mind.
-
-Has he **said**, and will he not **do** it?<br>
-Or has he **spoken**, and will he not **fulfill** it?
-
-[Numbers 23:19 (ESV)](# "ref")
-
->>>
-+ even Balaam the **unfaithful** prophet was used by God
-  + to demonstrate His **unchanging** faithfulness
-+ So **why** should I **doubt** God's goodness?
++ but on **faithfulness** of God to His promises
 + Abe acks **freewill** of the woman
   + and takes **pressure** off Eliezer:
 
@@ -540,6 +526,39 @@ shall be **blessed**.
   + not only with **Isaac** + Rebekah
 + but ultimately in **Christ**
   + extending **blessing** to all families of earth
+
+---
+(anecdote)
+
+>>>
++ but God can and does still **speak** to us
+  + in our **specific** circumstances!
++ e.g., **wife** + I
+  + not each other's **"type"**
++ but God **sees** farther ahead
+  + and **deeper** into the soul than we do
++ our **choice** was not to choose the **person**
+  + based on a list of matching **criteria**
++ but we chose to say **yes** to God's plan
+  + and hence **yes** to each other
++ still **struggles** all the time in marriage,
+  + but God doesn't make **mistakes**
+  + He doesn't **change** His mind:
+
+---
+God is not **man**, that he should **lie**,<br>
+or a son of man, <br>
+that he should **change** his mind.
+
+Has he **said**, and will he not **do** it?<br>
+Or has he **spoken**, and will he not **fulfill** it?
+
+[Numbers 23:19 (ESV)](# "ref")
+
+>>>
++ even Balaam the **unfaithful** prophet was used by God
+  + to demonstrate His **unchanging** faithfulness
++ So **why** should I **doubt** God's goodness?
 
 ---
 <!-- .slide: data-background="white" -->
