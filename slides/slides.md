@@ -171,11 +171,11 @@ When God **created** man, <br>
 he made him in the **likeness** of God.
 
 |---|---|---|---|
-| **Adam** | -- *(130)* -- | Seth | -- *(105)* -- |
-| Enosh | -- *(90)* -- | Kenan | -- *(70)* -- |
-| Mahalalel | -- *(65)* -- | Jared | -- *(162)* -- |
-| Enoch | -- *(65)* -- | Methuselah | -- *(187)* -- |
-| Lamech | -- *(182)* -- | **Noah** | |
+| Adam | -- (130) -- | Seth | -- (105) -- |
+| Enosh | -- (90) -- | Kenan | -- (70) -- |
+| Mahalalel | -- (65) -- | Jared | -- (162) -- |
+| Enoch | -- (65) -- | Methuselah | -- (187) -- |
+| Lamech | -- (182) -- | Noah | |
 
 [Genesis 5:1 (ESV)](# "ref")
 
@@ -246,12 +246,14 @@ Nahor -- *(29)* -- Terah -- *(70)* -- **Abram**
 + But again, God had **mercy** on one:
 
 ---
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 And I will make of you a **great nation**, ...
 
 and in you all the **families** of the earth <br>
 shall be **blessed**.
 
 [Genesis 12:2,3 (ESV)](# "ref")
+[Ales Krivec](https://unsplash.com/photos/ywtbSuCSjhM "caption")
 
 >>>
 + God made His **promise** to Abe
@@ -264,6 +266,7 @@ shall be **blessed**.
 + That brings us now to **Isaac**:
 
 ---
+<!-- .slide: <%= bg("Piazzetta-Rebecca_at_the_Well.jpg") %> -->
 you will not take a **wife** for my son <br>
 from the daughters of the **Canaanites**, <br>
 among whom I dwell, 
@@ -273,6 +276,7 @@ but will go to my country and to my **kindred**, <br>
 and take a wife for my son Isaac.
 
 [Genesis 24:3-4 (ESV)](# "ref")
+[Rebecca at the Well, Giovanni Piazzetta, 1740](https://www.wga.hu/html/p/piazzett/giovanni/rebecca.html "caption")
 
 >>>
 + from the **lineage** of those who remember Creator
