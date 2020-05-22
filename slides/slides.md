@@ -3,15 +3,15 @@
 ## Genesis 24
 
 >>>
-+ in our series on book of **Genesis**,
++ In our series on book of **Genesis**,
 + passage today is a **happy** one: Isaac + Reb!
   + **love** story, so sweet!
-+ of course, it's not actually **about** Isaac + Reb
++ Of course, it's not actually **about** Isaac + Reb
   + and although it **is** a love story,
   + it's not about **their** love
-+ is one of **handful** of times Bible describes
++ But it is one of **handful** times Bible describes
   + **how** someone found their spouse
-+ feel for **singles**, esp. in **pandemic**:
++ Feel for **singles**, esp. in **pandemic**:
   + everyday at **home** in my pajamas
   + **how** am I supposed to meet someone?
 
@@ -24,14 +24,14 @@
 + Teens: marriage a **long** way off
   + but understand **purpose** of marriage
   + don't succumb to **pressure** to date (whether ext/int)
-+ Singles not **looking** for spouse:
++ "Happy singles" not **looking** for spouse:
   + God has a **plan** for you, too (come **back** later)
 + Couples: **stuck**, done deal
-  + but God has **promises** specifically about marriage
+  + God has **promises** specifically about marriage
   + how our rl can **grow** in faith + obedience
-+ Parents: what kind of **spouse** hope for our kids?
-+ Seniors: how **pass on** faith in God's promises
-  + we've learned from **walking** w/Him?
++ Parents w/kids @home: what **spouse** hope for kids?
++ Seniors: how **pass on** the faith in God's promises
+  + that we've learned from **walking** w/Him?
 + The One who **determines** paths of our lives
   + also **redeems** our hearts + families
 + Behold the Lamb of God **[ PRAYER ]**
