@@ -15,7 +15,8 @@
   + **how** am I supposed to meet someone?
 
 ---
-Q: How do I find a **spouse**?
+<!-- .slide: data-background="white" -->
+# How do I find a **spouse**?
 
 >>>
 + not just for **singles**, passage speaks to all of us:
@@ -104,7 +105,7 @@ only you must not take my son back there.”
 [Genesis 24:1-8 (ESV) (p.5/5)](# "ref")
 
 ---
-## Examples of Finding a Spouse
+## Biblical Examples <br> of Finding a Spouse
 + Adam [(Gen 2:18-25)](# "ref")
 + Jacob [(Gen 28:1-5, 29:1-30)](# "ref")
 + Ruth
@@ -390,85 +391,170 @@ in Christ Jesus through the gospel.
 + 1Cor7 undivided devotion to God
 
 ---
-Q: What is the **purpose** of marriage? 
-
----
-(2) Promise (v5-8)
-
-2a: The Promise-Giver (v7a)
+<!-- .slide: data-background="white" -->
+# What is the **purpose** of marriage? 
 
 >>>
-+ "God of **heaven**": 
-  + **Creator**, all-powerful, capable
++ sign of **God's** steadfast covenant love
++ way for us to **experience** God's love
+  + and practise **showing** it selflessly
++ establish **family** that remembers Creator
++ **pass** it on to next gen
+
+---
+(outline 2)
+
+>>>
++ in v5-8 we see Abe's **faith** in action
++ remembering **who** made the promises
++ gives us **confidence** + assurance
++ each person can **choose** whether to be
+  + part of God's plan of **blessing**
++ but that does not **thwart** God's plan
++ nor should it **paralyse** us with uncertainty
+
+---
+The Lord, the God of **heaven**, <br>
+who **took me** from my father's house <br>
+and from the land of my kindred, 
+
+and who **spoke to me** and swore to me, <br>
+‘To your offspring I will give this land,’ 
+
+[Genesis 24:7 (ESV)](# "ref")
+
+>>>
++ (1) Creator, (2) Shepherd, (3) Father
++ "God of **heaven**": all-powerful, capable
   + 20 gens / 2000 yrs of history
 + "took me from land of my **kin**" (12:1):
   + sent Abe here to **Canaan**, blessed
   + **personally** exp. God's providence
   + know God **cares** + leads
-+ "To your **offspring** I will give this land" (12:7)
-  + specific promise of **family lineage**
-  + also underscores importance of Isaac **staying** in Canaan
++ **Seniors** (remember Abe 140yo):
+  + you've **experienced** God's faithfulness
++ you've **journeyed** in faith as Abe did
+  + not knowing what **tomorrow** holds
+  + but knowing **who** holds tomorrow
++ not **empty** words you recite: you've **lived** it!
+  + same **confid** in God's power that Abe did
+
+---
+Then the Lord **appeared** to Abram and said,<br>
+“To your **offspring** I will give **this land**.”
+
+[Genesis 12:7 (ESV)](# "ref")
+
+>>>
++ specific promise of **family lineage**
+  + why Isaac's **wife** so imp. to Abe
+  + God estab. **family** legacy for Abe
++ also specifically about land of **Canaan**
+  + why Isaac must not **move** away
 + Remember **who** it is who made the promise:
   + Creator is **able** to fulfill
   + Shepherd **cares** for us + leads us forward
   + Father establishes our **family** + legacy
++ This gives us **assurance** of faith
+  + in the face of **uncertainty**
++ Servant Eliezer is thinking **ahead**:
 
 ---
-2b: Assurance of Faith (v7b)
+The servant said to him, “Perhaps **the woman** <br>
+may not be **willing** to follow me to this land."
+
+[Genesis 24:5 (ESV)](# "ref")
 
 >>>
-+ "What if plan **fails**?"
-  + "He **will** send His angel before you"
-  + "You **shall** take a wife for my son from there"
-+ no **doubt** that God would provide God-fearing wife
-+ Num23:19 (Balaam) has God spoken and will not fulfill?
-+ Heb11:1-2 faith
-
----
-2c: Contingency Plan (v8)
-
->>>
++ not a sign of **lack** of faith, just
+  + being **shrewd**, plan contingency:
++ That's **great** that God promised a family legacy
+  + but what if things **don't** go acc to plan?
 + "the woman": **singular**
   + imply not **ranking** candidates / going down list
-+ God will prepare **one** woman for Isaac
-  + but she has **freewill** to refuse God's plan
-+ **free** from oath: clean, empty cup, innocent of wrongdoing
-+ not: take Isaac to **Nahor** for believing wife
-  + but: let Isaac marry **Canaanite**
-+ trust that God would enable Isaac to continue family line
-  + remembering Creator
-+ must keep Isaac **here** in promised land
-+ but! contingency plan won't happen; God will provide
+  + not **Eli.** choosing, but God
++ Let's say God prepares **one** woman for Isaac
+  + and **leads** me to find her
++ God does **His** part, I've done **my** part
+  + she still has **freewill** to refuse God's plan
++ Abe's **reply**: I know **who** it is who promises, and
 
 ---
-Application: God's promise to Abe
+He **will** send His angel before you, <br>
+and you **shall** take a wife for my son from there.
+
+[Genesis 24:7 (ESV)](# "ref")
 
 >>>
-+ here's where we **diverge** slightly from Isaac:
++ no **doubt** that God would provide God-fearing wife
+  + therefore must **act** in that assurance
++ This isn't about **wishing** something to happen
+  + doesn't rest on **strength** of our conviction
++ but on **faithfulness** of God to His promises:
+
+---
+God is not **man**, that he should **lie**,<br>
+or a son of man, that he should **change** his mind.
+
+Has he **said**, and will he not **do** it?<br>
+Or has he **spoken**, and will he not **fulfill** it?
+
+[Numbers 23:19 (ESV)](# "ref")
+
+>>>
++ even Balaam the **unfaithful** prophet was used by God
+  + to demonstrate His **unchanging** faithfulness
++ So **why** should I **doubt** God's goodness?
++ Abe acks **freewill** of the woman
+  + and takes **pressure** off Eliezer:
+
+---
+If the woman is **not willing** to follow you, <br>
+then you will be **free** from this oath of mine
+
+[Genesis 24:8 (ESV)](# "ref")
+
+>>>
++ free: clean, empty cup, **innocent** of wrong
++ assumption would be Isaac would marry **Canaanite**
+  + trust that God can still continue a family line
+  + that **remembers** the Creator
++ but! won't need to **use** the contingency plan
+  + God will **provide**, as He always has
++ So what about **us**?
+  + here's where **diverge** slightly from Isaac
+
+---
+And I will make of you a **great nation**, ...
+
+and in you all the **families** of the earth <br>
+shall be **blessed**.
+
+[Genesis 12:2,3 (ESV)](# "ref")
+
+>>>
 + God gave Abe **specific** promise
   + would become a vast **nation**
 + so he **knew** family line would continue
 + That promise has been **fulfilled**
   + not only with **Isaac** + Rebekah
 + but ultimately in **Christ**
-  + extending **blessing** to all nations
+  + extending **blessing** to all families of earth
 
 ---
-Application: God's promises to us
+<!-- .slide: data-background="white" -->
+# What are God's **promises** to me? 
 
 >>>
-+ each of us does **not** have a promise from God
-  + that we will have **children**
++ God has **not** promised to all of us that
+  + we will have **children**
   + or have a **happy** marriage
   + or even **get** married
 + but we **do** have God's promise through Christ
-+ He established **times** + **places** for us to live (Ac)
-+ **adopted** us into His family (Eph1)
-+ granted **inheritance** in heaven
++ He established **times** + **places** for us to live (Ac17)
++ **adopted** us into His family
+  + granted **inheritance** in heaven (Eph1)
 + blessed us to become **blessing** to all nations
-
----
-Q: What are God's **promises** to me? 
 
 ---
 (3) Practise (v10-14)
