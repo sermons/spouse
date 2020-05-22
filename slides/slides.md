@@ -59,15 +59,16 @@
   + **God's** faithfulness + steadfast love
 
 ---
-1. Principle (v1-4)
-2. Promise (v5-8)
-  + Father of Promises (v7a)
-  + Faith in Action (v7b)
-  + Freewill (v8)
-3. Practise (v10-49)
-  + Purpose (v10)
-  + Prayer (v12-14)
-  + Proposal (v22-49)
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+1. **Principle** [(v1-4)](# "ref")
+2. **Promise** [(v5-8)](# "ref")
+  + Father of Promises [(v7a)](# "ref")
+  + Faith in Action [(v7b)](# "ref")
+  + Freewill [(v8)](# "ref")
+3. **Practise** [(v10-49)](# "ref")
+  + Purpose [(v10)](# "ref")
+  + Prayer [(v12-14)](# "ref")
+  + Proposal [(v22-49)](# "ref")
 
 >>>
 + focus mostly on first **half**, for time's sake
@@ -366,7 +367,16 @@ how to please her **husband**
 **[4 count pause]**
 
 ---
-(outline 2)
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+1. Principle [(v1-4)](# "ref")
+2. **Promise** [(v5-8)](# "ref")
+  + *Father of Promises* [(v7a)](# "ref")
+  + *Faith in Action* [(v7b)](# "ref")
+  + *Freewill* [(v8)](# "ref")
+3. Practise [(v10-49)](# "ref")
+  + Purpose [(v10)](# "ref")
+  + Prayer [(v12-14)](# "ref")
+  + Proposal [(v22-49)](# "ref")
 
 >>>
 + in v1-4 we see **principle** of
@@ -548,7 +558,16 @@ Or has he **spoken**, and will he not **fulfill** it?
 **[4 count pause]**
 
 ---
-(outline 3)
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+1. Principle [(v1-4)](# "ref")
+2. Promise [(v5-8)](# "ref")
+  + Father of Promises [(v7a)](# "ref")
+  + Faith in Action [(v7b)](# "ref")
+  + Freewill [(v8)](# "ref")
+3. **Practise** [(v10-49)](# "ref")
+  + *Purpose* [(v10)](# "ref")
+  + *Prayer* [(v12-14)](# "ref")
+  + *Proposal* [(v22-49)](# "ref")
 
 >>>
 + **Principle**: to establish families that
