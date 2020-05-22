@@ -3,13 +3,14 @@
 ## Genesis 24
 
 >>>
++ in our series on book of **Genesis**,
 + passage today is a **happy** one: Isaac + Reb!
   + **love** story, so sweet!
 + of course, it's not actually **about** Isaac + Reb
   + and although it **is** a love story,
   + it's not about **their** love
-+ one of a **handful** of times when Bible describes
-  + **how** someone found a spouse
++ is one of **handful** of times Bible describes
+  + **how** someone found their spouse
 + feel for **singles**, esp. in **pandemic**:
   + everyday at **home** in my pajamas
   + **how** am I supposed to meet someone?
@@ -373,7 +374,7 @@ in Christ Jesus through the gospel.
 
 >>>
 + So when **looking** for spouse
-  + whether for self or for child
+  + whether for **self** or for **child**
 + don't just **tick** the checkbox:
   + attends **church**, got baptised
 + Find someone who **remembers** the Creator
@@ -389,7 +390,39 @@ in Christ Jesus through the gospel.
 (aside: to happy singles)
 
 >>>
-+ 1Cor7 undivided devotion to God
++ to **happy singles**: whether teens, 20s, or up
++ first: today's passage **isn't** primarily
+  + about how Isaac+Reb got **married**
++ it's about **God's** faithfulness
+  + and taking **action** in light of His promises
++ So all the real **lessons** from this ch
+  + apply to **all** of us, single or married
++ You're right that what principally **defines** you
+  + should not be one's **marital status**
++ but: what principally defines you 
+  + is not sth **you** can choose for yourself, either
++ You are, foremost, a **child** of God
+  + loved + adopted into His **family**
+
+---
+The **unmarried** or betrothed woman is <br>
+**anxious** about the things of the Lord, <br>
+how to be **holy** in **body** and **spirit**. 
+
+But the **married** woman is anxious about **worldly** things, <br>
+how to please her **husband**
+
+[1 Corinthians 7:34 (ESV)](# "ref")
+
+>>>
++ you have a certain **freedom**:
+  + do not use it to **indulge** selfishness
++ but to be **undistracted** in devotion to God
++ not just **working** hard to serve Him
+  + e.g., **caring** for poor / seniors / orphans
++ but fully committed to **pursuing** holiness
+  + seeking **accountability** in the family of Christ
++ much **more** to be said about this, another time!
 
 ---
 <!-- .slide: data-background="white" -->
@@ -577,150 +610,265 @@ Or has he **spoken**, and will he not **fulfill** it?
 + blessed us to become **blessing** to all nations
 
 ---
-(3) Practise (v10-14)
+(outline 3)
+
+>>>
++ Following the **principle** of estab.
+  + families that **remember** the Creator
++ Remembering **who** it is who gives us the **promises**
+  + have full **assurance** of faith, even if
+  + God allows a **choice** to reject His blessings
++ Now turn to **Eliezer** the servant to learn
+  + how to take **action** in light of God's faithfulness
+
+---
+And Abraham said to his **servant**, <br>
+the **oldest** of his household, <br>
+who had **charge** of all that he had
+
+[Genesis 24:2 (ESV)](# "ref")
 
 >>>
 + most of us don't have dads **wealthy** enough
-  + to send **trusted** servant to find spouse
+  + to have **trusted** servant to find spouse
 + possible for **parents** to find spouse
   + immense **responsibility**
-+ truth is, in individualistic society,
++ to be **honest**, in individualistic society,
   + we no longer **know** our kids
   + as well as we ought
-  + nor do we **pray** for them / marriage
++ nor do we **pray** for them / marriage
   + in the way we ought
+
+---
+(matchmakers)
+
+>>>
 + e.g., **matchmakers**, church aunties
-  + or even now, want to help single friends:
+  + or even **now**, want to help single friends:
 + but marriage is **serious**, lifelong
   + sign of **God's** covenant love
 + not to be **trifled** with
   + not, "oh, you two would be **cute** together"
   + not so **I** take credit
-+ so the task of finding a spouse
++ so the **task** of finding a spouse
   + now typically falls to the **individual**
 + so as we read Eliezer's **dedication** to his work
-  + apply **lessons** learned to
+  + **lessons** learned can apply to
   + the **person** looking for a spouse
 
 ---
-3a: Purpose (Journey) (v10)
+Then the servant took <br>
+ten of his master's **camels** and departed, <br>
+taking all sorts of choice **gifts** from his master; 
+
+and he arose and went to **Mesopotamia** <br>
+to the city of **Nahor**.
+
+[Genesis 24:10 (ESV)](# "ref")
 
 >>>
 + long distance, **weeks** of journey: 
-  + Canaan: likely Beersheba, Hebron, or Beer-Lahai-Roi
-  + Nahor: Aram-Naharaim, NW Mesopotamia
-+ many supplies, gifts, need whole **team**: 10 camels
-  + would be **self-sufficient**
+  + **Canaan**: likely Beersheba or Hebron
+  + **Nahor**: Aram-Naharaim, NW Mesopotamia
++ many supplies, gifts, need whole **team**:
+  + several other **servants**, guards
++ much **preparation**, taking it **seriously**
++ would be **self-sufficient**
   + able to draw water for camels
-+ strategic in going to **well** at evening
-+ earnest **intent**
-  + (v33) focus on task first before food
-  + (v56) no delay since successful
-+ e.g., actually **praying** for a wife
-  + ack want to be married
-+ not dreaming of what I **get** out of it
-  + meeting my needs, companionship, etc
-  + being able to **say** I have a bf/gf
-+ but preparing for the **commitment**
-  + respect as equal but complementary
 
 ---
-[54](# "ref")
-When they arose in the morning, <br>
-he said, “Send me away to my master.” 
+And he made the **camels** kneel down <br>
+outside the city by the **well** of water
 
-[55](# "ref")
-Her brother and her mother said, <br>
-“Let the young woman remain with us a while, <br>
-at least ten days; after that she may go.” 
+at the time of **evening**, <br>
+the time when **women** go out to draw water. 
 
-[56](# "ref")
-But he said to them, “Do not delay me, <br>
-since the Lord has prospered my way. <br>
-Send me away that I may go to my master.” 
-
----
-3b: Prayer (v12-14)
+[Genesis 24:11 (ESV)](# "ref")
 
 >>>
-+ who is LORD: 
-  + God of Abe
++ strategic in going to **well** at evening
++ (single **guys**: where are the wells now?)
+  + not just going where eligible **ladies** are
++ Eliezer was a **servant**: not looking for **himself**
+  + but to fulfill solemn **oath**
+  + and immense **task** given by master
++ trust that **God** had already prepared **one**
+  + planning + earnest **intent**
+
+---
+(anecdote)
+
+>>>
++ e.g., actually **praying** for a wife
+  + ack **want** to be married
++ not dreaming of what I **get** out of it
+  + meeting my **needs**, companionship, etc
+  + being able to **say** I have a bf/gf
++ but preparing for the **commitment**
+  + respect as **equal** but complementary
++ and **ready** to move forward when God says go
++ Later, when fam **reluctant** to let Reb go:
+
+---
+But he said to them, “Do not **delay** me, <br>
+since the Lord has **prospered** my way. <br>
+Send me **away** that I may go to my master.” 
+
+[Genesis 24:56 (ESV)](# "ref")
+
+>>>
++ Once God made it **clear** who Isaac's wife would be
+  + and she made her own **choice** to accept
++ no **delay**, just move **forward**
+  + and indeed, Isaac accepted + **loved** her
++ Secondly, Eliezer **prayed**:
+
+---
+O Lord, God of my master Abraham, <br>
+please grant me **success** today ...
+
+let her be the one whom you have  <br>
+**appointed** for your servant Isaac.
+
+By this I shall know that you have <br>
+shown **steadfast love** to my master
+
+[Genesis 24:12,14 (ESV)](# "ref")
+
+>>>
++ who is LORD: God of Abe
   + able to grant **success** (for Eliezer)
   + the One who **appoints** spouse (for Isaac)
   + shows chesed **love** (to Abe)
-+ "Eliezer": my God is help
-  + Hebrew name, not Aramaic
-+ **filtering** criteria to narrow the selection
-  + 20gal/camel: major **effort**
++ "Eliezer": my God is **help**
++ a note about drawing water for the **camels**:
 
 ---
-[12](# "ref")
-O Lord, God of my master Abraham, <br>
-please grant me success today <br>
-and show steadfast love to my master Abraham. 
+She said, “I will draw water for your **camels** also,<br>
+until they have finished drinking.”
 
-[13](# "ref")
-Behold, I am standing by the spring of water, <br>
-and the daughters of the men of the city <br>
-are coming out to draw water. 
+[20](# "ref")
+So she quickly **emptied** her jar into the trough <br>
+and **ran** again to the well to draw water, <br>
+and she drew for all his **camels**.
 
----
-[14](# "ref")
-Let the young woman to whom I shall say, <br>
-‘Please let down your jar that I may drink,’ 
-
-and who shall say, <br>
-‘Drink, and I will water your camels’ --
-
-let her be the one whom you have appointed <br>
-for your servant Isaac. 
-
-By this I shall know that you have shown <br>
-steadfast love to my master.
-
----
-3c: Proposal (v22-49)
+[Genesis 24:19-20 (ESV)](# "ref")
 
 >>>
++ 20gal/camel: major **effort**
+  + (ladies: beef up your **biceps**!)
+  + or: show **kindness** to strangers
++ this isn't to say Reb was more **noble** than other girls
+  + focus not on Reb but **God's** faithfulness
++ **filtering** criteria to narrow the selection
+  + Eliezer asking for a **sign**
+  + to indicate God's **choice**
++ and when God **answered** his prayer,
+  + what did he do **next**?
+
+---
+The man took a **gold ring** weighing a half shekel, <br>
+and two **bracelets** for her arms <br>
+weighing ten gold shekels, [23](# "ref") and said, 
+
+“Please tell me whose **daughter** you are. <br>
+Is there room in your **father's house** <br>
+for us to spend the night?”
+
+[Genesis 24:22-23 (ESV)](# "ref")
+
+>>>
++ 3 things he did **immediately**:
 + gifts as **token** of earnestness
   + (not to **buy** favourable response)
-+ ask about her **family**
-+ immediate response: **worship** God
-+ **explain** entire journey
-  + w/o **hiding** / duplicitous
-+ who is LORD: God of Abe, 
-  + chesed **love** + **truth** to (Abe)
-  + **guidance** (to servant)
-+ (v49) will family show chesed **love** + **truth** to Abe?
-+ tell me: turn **right** or **left**
-  + respect choice either way
-  + but need to know
+  + he's off the **hook** if she refuses
++ ask about her **family**:
+  + (Bible doesn't even say he asked **her** name!)
+  + specific plans to **meet** the family
++ thirdly:
 
 ---
-[49](# "ref")
+The man bowed his head and **worshiped** the Lord 
+
+[27](# "ref")
+and said, “**Blessed** be the Lord, <br>
+the God of my master Abraham, 
+
+who has not forsaken his **steadfast love** <br>
+and his **faithfulness** toward my master.
+
+[Genesis 24:26-27 (ESV)](# "ref")
+
+>>>
++ **worship** God, thanksgiving
++ when God brings 2 ppl **together**
+  + is our response humble **worship**?
++ Notice this repeated **refrain**:
+  + God's **steadfast love** (chesed, covenant)
+  + and **faithfulness** (truth)
++ That's the real **heart** of this chapter!
+  + Not what Isaac or Reb or even **Eliezer** did
++ Then, upon meeting Reb's **family**:
+
+---
+Then **food** was set before him to eat. 
+
+But he said, “I **will not eat** until <br>
+I have **said** what I have to say.” 
+
+[Genesis 24:33 (ESV)](# "ref")
+
+>>>
++ **focused** on his mission, bc
+  + he knew it would affect **families** + lives
+  + potentially even for **gens** to come
++ **explain** entire journey: w/o **hiding** / duplicit
++ then presented the **proposal** to them:
+
+---
 Now then, if you are going to show <br>
-steadfast love and faithfulness to my master,<br>
+**steadfast love** and **faithfulness** to my master,<br>
 tell me; and if not, tell me, that I may <br>
-turn to the right hand or to the left.
+turn to the **right** hand or to the **left**.
+
+[Genesis 24:49 (ESV)](# "ref")
+
+>>>
++ Same **themes**: 
+  + God has already shown chesed **love** + **truth**
+  + now will **you**?
++ God made His **choice** clear
+  + but **you** have a choice whether to accept or not
++ either way, just **tell** me:
+  + if **no**, then I return to Abe empty-handed
+  + if **yes**, then I take Reb back to Isaac
 
 ---
-Rebekah and afterward
+(Rebekah and afterward)
 
 >>>
 + not "happily ever after"
-+ 20yrs **infertility**
-+ kids sibling **rivalry**
-  + parents w/**favouritism**
+  + 20yrs **infertility**
+  + difficult **pregnancy**
++ kids' sibling **rivalry**, parents' **favouritism**
 + **Rebekah** not perfect wife, either:
   + "ribqah": alluring, **captivating**, cord tied firmly
   + as **baby**: so lovely, capture heart
-  + as **adult**: can be dangerous
++ as **adult**: can be dangerous
   + use God-given beauty to **bend** men to her will
 + **Jacob** ("grasps, deceives") / Israel ("wrestles w/God")
   + inherited **similar** traits
 
 ---
+**Blessed** be the Lord, <br>
+the God of my master Abraham, 
 
+who has not forsaken his **steadfast love** <br>
+and his **faithfulness** toward my master.
+
+[Genesis 24:27 (ESV)](# "ref")
+
+>>>
 + focus not on how hard **Isaac** searched for wife
   + not on **Reb** being perfect wife for Isaac
 + but **God's** chesed love: 
