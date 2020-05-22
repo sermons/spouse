@@ -170,12 +170,11 @@ and take a wife for my son Isaac.
 When God **created** man, <br>
 he made him in the **likeness** of God.
 
-| Adam | -- (130) -- | Seth | -- (105) -- |
-|---|---|---|---|
-| Enosh | -- (90) -- | Kenan | -- (70) -- |
-| Mahalalel | -- (65) -- | Jared | -- (162) -- |
-| Enoch | -- (65) -- | Methuselah | -- (187) -- |
-| Lamech | -- (182) -- | Noah | |
+| Adam | 130 | Seth | 105 | Enosh | 90 |
+|---|---|---|---|---|---|
+| Kenan | 70 | Mahalalel | 65 | Jared | 162 |
+| Enoch | 65 | Methuselah | 187 | Lamech | 182 | 
+| Noah | | | | | |
 
 [Genesis 5:1 (ESV)](# "ref")
 
@@ -445,12 +444,12 @@ and who **spoke to me** and swore to me, <br>
   + have same **confid** in God's power Abe did
 
 ---
-<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
+<!-- .slide: <%= bg("Foster-Jacobs_Ladder.jpg") %> -->
 Then the Lord **appeared** to Abram and said,<br>
 “To your **offspring** I will give **this land**.”
 
 [Genesis 12:7 (ESV)](# "ref")
-[Avenue of the Giants, CA. John Towner](https://unsplash.com/photos/3Kv48NS4WUU "caption")
+[Jacobs Ladder, Foster 1897](http://associate.com/photos/Bible-Pictures--1897-W-A-Foster/page-0043-1.jpg "caption")
 
 >>>
 + specific promise of **family lineage**
@@ -467,12 +466,12 @@ Then the Lord **appeared** to Abram and said,<br>
 + Servant Eliezer is thinking **ahead**:
 
 ---
-<!-- .slide: <%= bg("Foster-Jacobs_Ladder.jpg") %> -->
+<!-- .slide: <%= bg("Rebecca_at_Well_1885.jpg") %> -->
 The servant said to him, “Perhaps **the woman** <br>
 may not be **willing** to follow me to this land."
 
 [Genesis 24:5 (ESV)](# "ref")
-[Jacobs Ladder, Foster 1897](http://associate.com/photos/Bible-Pictures--1897-W-A-Foster/page-0043-1.jpg "caption")
+[Rebecca at the Well. old Bible etching, 1885](https://www.flickr.com/photos/wonderlane/4675509353 "caption")
 
 >>>
 + not a sign of **lack** of faith, just
