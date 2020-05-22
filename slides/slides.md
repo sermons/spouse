@@ -3,19 +3,56 @@
 ## Genesis 24
 
 >>>
-+ focus mostly on first **half**, for time's sake
++ passage today is a **happy** one: Isaac + Reb!
+  + **love** story, so sweet!
++ of course, it's not actually **about** Isaac + Reb
+  + and although it **is** a love story,
+  + it's not about **their** love
++ one of a **handful** of times when Bible describes
+  + **how** someone found a spouse
++ feel for **singles**, esp. in **pandemic**:
+  + everyday at **home** in my pajamas
+  + **how** am I supposed to meet someone?
 
 ---
+Q: How do I find a **spouse**?
+
+>>>
++ not just for **singles**, passage speaks to all of us:
++ Teens: marriage a **long** way off
+  + but understand **purpose** of marriage
+  + don't succumb to **pressure** to date (whether ext/int)
++ Singles not **looking** for spouse:
+  + God has a **plan** for you, too
+  + come **back** to that later
++ Couples: **stuck**, done deal
+  + but God has **promises** specifically about marriage
+  + how our rl can **grow** in faith + obedience
++ Parents: 
+  + what kind of **spouse** do we hope for our kids?
++ Seniors: how **pass on** faith in God's promises
+  + we've learned from **walking** w/Him?
++ The One who **determines** paths of our lives
+  + also **redeems** our hearts + families
++ Behold the Lamb of God **[ PRAYER ]**
+
+******
 [1](# "ref")
 Now Abraham was old, well advanced in years. <br>
 And the Lord had blessed Abraham in all things. 
- 
+
 [2](# "ref")
 And Abraham said to his servant, <br>
 the oldest of his household, <br>
 who had charge of all that he had
 
----
+[Genesis 24:1-8 (ESV) (p.1/5)](# "ref")
+
+>>>
++ read through **v1-8** together, to start
++ have whole **chapter** open in your Bible
+
+******
 Put your hand under my thigh, <br>
 [3](# "ref")
 that I may make you swear by the Lord, <br>
@@ -29,7 +66,9 @@ among whom I dwell,
 but will go to my country and to my kindred, <br>
 and take a wife for my son Isaac.
 
----
+[Genesis 24:1-8 (ESV) (p.2/5)](# "ref")
+
+******
 [5](# "ref")
 The servant said to him, “Perhaps the woman <br>
 may not be willing to follow me to this land. <br>
@@ -40,7 +79,9 @@ back to the land from which you came?”
 Abraham said to him, “See to it <br>
 that you do not take my son back there. 
 
----
+[Genesis 24:1-8 (ESV) (p.3/5)](# "ref")
+
+******
 [7](# "ref")
 The Lord, the God of heaven, <br>
 who took me from my father's house <br>
@@ -52,158 +93,248 @@ and who spoke to me and swore to me, <br>
 he will send his angel before you, <br>
 and you shall take a wife for my son from there. 
 
----
+[Genesis 24:1-8 (ESV) (p.4/5)](# "ref")
+
+******
 [8](# "ref")
 But if the woman is not willing to follow you, <br>
 then you will be free from this oath of mine; <br>
 only you must not take my son back there.”
 
----
-[12](# "ref")
-O Lord, God of my master Abraham, <br>
-please grant me success today <br>
-and show steadfast love to my master Abraham. 
-
-[13](# "ref")
-Behold, I am standing by the spring of water, <br>
-and the daughters of the men of the city <br>
-are coming out to draw water. 
+[Genesis 24:1-8 (ESV) (p.5/5)](# "ref")
 
 ---
-[14](# "ref")
-Let the young woman to whom I shall say, <br>
-‘Please let down your jar that I may drink,’ 
-
-and who shall say, <br>
-‘Drink, and I will water your camels’ --
-
-let her be the one whom you have appointed <br>
-for your servant Isaac. 
-
-By this I shall know that you have shown <br>
-steadfast love to my master.
-
----
-[49](# "ref")
-Now then, if you are going to show <br>
-steadfast love and faithfulness to my master,<br>
-tell me; and if not, tell me, that I may <br>
-turn to the right hand or to the left.
-
----
-[54](# "ref")
-When they arose in the morning, <br>
-he said, “Send me away to my master.” 
-
-[55](# "ref")
-Her brother and her mother said, <br>
-“Let the young woman remain with us a while, <br>
-at least ten days; after that she may go.” 
-
-[56](# "ref")
-But he said to them, “Do not delay me, <br>
-since the Lord has prospered my way. <br>
-Send me away that I may go to my master.” 
-
----
-(examples of finding spouse)
+## Examples of Finding a Spouse
++ Adam [(Gen 2:18-25)](# "ref")
++ Jacob [(Gen 28:1-5, 29:1-30)](# "ref")
++ Ruth
++ Hosea [(Hos 1-3)](# "ref")
++ Samson [(Jdg 14-16)](# "ref")
 
 >>>
-+ many other **examples** in Bible:
-  + Adam (ch2)
-  + Jacob (ch29)
-  + Samson (Jdg14)
-  + Ruth
-  + Hosea
-+ not all **positive** examples! 
-  + many **messed up** examples, too
++ one of several **examples** in Bible,
+  + not all **positive**, many pretty messed up!
++ Adam (went to **sleep**)
+  + Jacob (worked **14 years**)
+  + Ruth (proactive but **humble**)
+  + Hosea (God used both wife + **kids**)
+  + Samson (God used **despite** his poor judgment)
 + in exploring Biblical **precedent**,
   + discover it's not **how-to** guide
-  + for finding a spouse
-  + bc that isn't what's most **imp**
-  + focus is on **God's** faithfulness
-  + and chesed love
+  + for finding a **spouse**, bc
++ that's **not** most important: focus on
+  + **God's** faithfulness + steadfast love
 
 ---
-Context: Abe (v1)
+1. Principle (v1-4)
+2. Promise (v5-8)
+  + Father of Promises (v7a)
+  + Faith in Action (v7b)
+  + Freewill (v8)
+3. Practise (v10-49)
+  + Purpose (v10)
+  + Prayer (v12-14)
+  + Proposal (v22-49)
+4. Summary of Characters
 
 >>>
-+ Abe 140yo, still 35yrs left
-  + Sarah died 3yrs prior
-  + Ishmael 54yo, already sent away
-+ now worrying about Isaac (40yo)
++ focus mostly on first **half**, for time's sake
++ (1) even w/o specific **word** from God
+  + purpose not for our **happiness**
+  + **remember** our Creator, pass it on
++ (2) dwell on God's **promises**:
+  + knowing **who** He is gives us **confidence** / hope
+  + even if people **choose** to reject His plan
+  + God's **purposes** will prevail
++ (3) take **action** w/focus to see His promises fulfilled
+  + praying in faith that God will reveal His will
+  + being **honest** w/others: treating w/**honour**
++ We can learn sth from **each** char
+  + but the real main char is **God**
++ So what's the **setting** for today's passage?
+
+---
+Now Abraham was **old**, well advanced in years. <br>
+And the Lord had **blessed** Abraham in all things. 
+
+[Genesis 24:1 (ESV)](# "ref")
+
+>>>
++ context: Abe **140yo**, still 35yrs left
+  + **Sarah** died 3yrs prior
+  + **Ishmael** 54yo, already sent away
++ now worrying about **Isaac** (40yo)
   + knows how important a good **wife** is!
-
----
-Context: Eliezer (v2)
-
->>>
-+ main **character** of this story is:
++ But Abe's not main **character** of this story;
   + not **Rebekah**: does very little
   + not **Isaac**: does zero!
-+ majority of text is about the **servant**:
-  + (though even he's not the real main character)
-+ probably **Eliezer** of Damascus (15:2)
-  + with Abe for **longer** than Isaac alive
-  + faithful + trusted
-+ now entrusted with even **greater** task
-  + than overseeing all Abe's possessions
++ majority of **text** describes
+  + what the **servant** does:
 
 ---
-Intro: The Task (v3-4)
+And Abraham said to his **servant**, <br>
+the **oldest** of his household, <br>
+who had **charge** of all that he had
+
+[Genesis 24:2 (ESV)](# "ref")
+
+>>>
++ (though even **he's** not the real main character)
++ probably **Eliezer** of Damascus (15:2)
+  + with Abe for **longer** than Isaac alive
+  + faithful + **trusted**
++ now entrusted with even **greater** task
+  + than overseeing all Abe's **possessions**
+
+---
+Put your hand under my **thigh**, <br>
+[3](# "ref")
+that I may make you **swear** by the Lord, <br>
+the God of **heaven** and God of the **earth**, 
+
+[Genesis 24:2-3 (ESV)](# "ref")
 
 >>>
 + hand under **thigh**: solemnity of oath
+  + unique to **Bible**
+  + but also **Jacob** to Joseph (47:29)
++ no evidence **Romans** did this
++ charge/task is really **important**
+  + deals w/Abe's **progeny** / legacy
++ for servant, **failure** not an option
+
+---
+that you will not take a **wife** for my son <br>
+from the daughters of the **Canaanites**, <br>
+among whom I dwell, 
+
+[4](# "ref")
+but will go to my country and to my **kindred**, <br>
+and take a wife for my son Isaac.
+
+[Genesis 24:3-4 (ESV)](# "ref")
+
+>>>
 + Abe's goal: believing **wife** for Isaac
-+ Already sent Hagar+Ishmael away (ch21)
-  + as per God's command (Gal4:30-31)
++ Already sent **Hagar**+Ishmael away (ch21)
+  + as per God's **command** (Gal4:30-31)
 + Ishmael's wife **Egyptian**
   + found by **Hagar**
-  + Abe had no hand in it
+  + Abe had no **hand** in it
++ So what's the **deal** w/marrying **kin**?
+  + Do **Chinese** have to marry only Chinese?
++ Here's the **principle**:
 
 ---
-(1) Principle (v1-4):
+When God **created** man, <br>
+he made him in the **likeness** of God.
+
+**Adam** -- *(130)* -- Seth -- *(105)* -- 
+Enosh -- *(90)* -- Kenan -- *(70)* -- 
+Mahalalel -- *(65)* -- Jared -- *(162)* --
+Enoch -- *(65)* -- Methuselah -- *(187)* -- 
+Lamech -- *(182)* -- **Noah**
+
+[Genesis 5:1 (ESV)](# "ref")
 
 >>>
-+ from beginning all knew Creator
-  + but quickly forgot / left
-+ 1 family line that remembered God (ch5)
-  + 10 gens / 1000 yrs, Adam to Noah (birth)
-  + each gen teaching from father to son
++ from beginning **all** knew Creator
+  + not a **foreign** religion
+  + orig. we could **walk** w/Him
++ But mankind quickly **forgot** / left
++ 1 **family line** that remembered God
+  + **10 gens** / 1000 yrs, Adam to Noah (birth)
+  + each gen **teaching** from father to son
++ In **Noah's** time, 
+  + earth was **filled** w/violence, but
 
 ---
-Noah
+But Noah found **favor** in the eyes of the Lord.
+
+[Genesis 6:8 (ESV)](# "ref")
 
 >>>
-+ God had mercy on Noah
-  + but after flood, mankind again left God
-  + Canaanites: under God's curse
-+ 1 family line that remembered God (ch10)
++ God had **mercy** on Noah + family (8 mouths)
++ but **after** flood, mankind **again** left God
++ **Canaanites** in particular under God's curse:
+
+---
+"Cursed be **Canaan**;<br>
+a **servant** of servants <br>
+shall he be to his brothers"
+
+[Genesis 9:25 (ESV)](# "ref")
+
+>>>
++ From Canaan came the **Hittites** and other nations
++ amongst whom Abe+Isaac were presently **living**
++ They had long **forsaken** worship of the true Creator
+  + turned aside to false **idols**
++ but once again, God preserved a **remnant**:
+
+---
+Now the Lord said to **Abram**, <br>
+“**Go** from your country and your kindred and <br>
+your father's house to the **land** that I will show you."
+
+**(Noah)** -- *(500)* -- Shem -- *(100)* --
+Arpachshad -- *(35)* -- Shelah -- *(30)* --
+Eber -- *(34)* -- Peleg -- *(30)* --
+Reu -- *(32)* -- Serug -- *(30)* --
+Nahor -- *(29)* -- Terah -- *(70)* -- **Abram**
+
+[Genesis 12:1, 11:10-26 (ESV)](# "ref")
+
+>>>
++ 1 family line that **remembered** God
   + 10 gens / 1000 yrs, Noah (birth) to Abe
++ passed on **knowledge** of who God is
+  + from **father** to son
++ we see how **important** family is:
+  + the **habits** we cultivate at home
+  + the **priorities** we instill in our children
++ By the time we reach **Abe**,
+  + again the **majority** of nations
+  + had **forgotten** the Creator
++ But again, God had **mercy** on one:
 
 ---
-Abraham
+And I will make of you a **great nation**, ...
+
+and in you all the **families** of the earth <br>
+shall be **blessed**.
+
+[Genesis 12:2,3 (ESV)](# "ref")
 
 >>>
-+ God had mercy on Abe: promise
-+ Abe - Isaac - Jacob
-  + estab. nation of Israel
-+ chosen by God in His mercy
-  + to remember the Creator
-+ and pass on to next gen
++ God made His **promise** to Abe
++ through Abe - Isaac - Jacob
+  + estab. **nation** of Israel
++ **chosen** by God in His mercy
+  + to **remember** the Creator
++ and **pass on** to next gen knowledge of
   + God of heaven + earth
++ That brings us now to **Isaac**:
 
 ---
-Isaac
+you will not take a **wife** for my son <br>
+from the daughters of the **Canaanites**, <br>
+among whom I dwell, 
+
+[4](# "ref")
+but will go to my country and to my **kindred**, <br>
+and take a wife for my son Isaac.
+
+[Genesis 24:3-4 (ESV)](# "ref")
 
 >>>
-+ "marry own country / **kin**"
-  + find a **wife** who will help you to
++ from the **lineage** of those who remember the Creator
++ find a **wife** who will help you to
   + **teach** next gen to remember God
   + good wife so **important**!
 + same thing w/next gen **Jacob** / Esau 
   + Jacob went to relatives at **Haran** for wife
-  + Esau married **Hittites**
+  + Esau married 2 **Hittite** women
 + not **legalistic** requirement:
   + **predates** Moses' law!
 + from the **beginning**, God has **revealed** Himself
@@ -213,12 +344,21 @@ Isaac
   + **estab.** family w/spouse who also reveres Him
 
 ---
-Application: Godly family line
+This **mystery** is that <br>
+the **Gentiles** are fellow **heirs**, <br>
+members of the same **body**, 
+
+and partakers of the **promise** <br>
+in Christ Jesus through the gospel.
+
+[Ephesians 3:6 (ESV)](# "ref")
 
 >>>
-+ raising godly **family** still critically imp.
++ What about us **today**?
++ Raising godly **family** still critically imp.
 + **all** nations blessed via Seed of Abe
   + through whom **mystery** of gospel revealed:
+  + **[Eph 3:6]**
 + we who are **not** part of family line of Abe
   + have been **adopted** in by grace
 + continue to **pass on** the remembrance of Creator
@@ -227,7 +367,7 @@ Application: Godly family line
   + just as **Paul** was spiritual father to many
 
 ---
-Application: looking for spouse
+(Application: looking for spouse)
 
 >>>
 + So when **looking** for spouse
@@ -281,6 +421,8 @@ Q: What is the **purpose** of marriage?
   + "He **will** send His angel before you"
   + "You **shall** take a wife for my son from there"
 + no **doubt** that God would provide God-fearing wife
++ Num23:19 (Balaam) has God spoken and will not fulfill?
++ Heb11:1-2 faith
 
 ---
 2c: Contingency Plan (v8)
@@ -371,6 +513,7 @@ Q: What are God's **promises** to me?
   + ack want to be married
 + not dreaming of what I **get** out of it
   + meeting my needs, companionship, etc
+  + being able to **say** I have a bf/gf
 + but preparing for the **commitment**
   + respect as equal but complementary
 
@@ -484,4 +627,51 @@ Hero of the story
   + His plan from Abe to Isaac to Jacob
 + through both royal and priestly lines, on down to Jesus
   + through whom all nations are blessed
+
+---
+[12](# "ref")
+O Lord, God of my master Abraham, <br>
+please grant me success today <br>
+and show steadfast love to my master Abraham. 
+
+[13](# "ref")
+Behold, I am standing by the spring of water, <br>
+and the daughters of the men of the city <br>
+are coming out to draw water. 
+
+---
+[14](# "ref")
+Let the young woman to whom I shall say, <br>
+‘Please let down your jar that I may drink,’ 
+
+and who shall say, <br>
+‘Drink, and I will water your camels’ --
+
+let her be the one whom you have appointed <br>
+for your servant Isaac. 
+
+By this I shall know that you have shown <br>
+steadfast love to my master.
+
+---
+[49](# "ref")
+Now then, if you are going to show <br>
+steadfast love and faithfulness to my master,<br>
+tell me; and if not, tell me, that I may <br>
+turn to the right hand or to the left.
+
+---
+[54](# "ref")
+When they arose in the morning, <br>
+he said, “Send me away to my master.” 
+
+[55](# "ref")
+Her brother and her mother said, <br>
+“Let the young woman remain with us a while, <br>
+at least ten days; after that she may go.” 
+
+[56](# "ref")
+But he said to them, “Do not delay me, <br>
+since the Lord has prospered my way. <br>
+Send me away that I may go to my master.” 
 
