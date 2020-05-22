@@ -25,13 +25,11 @@
   + but understand **purpose** of marriage
   + don't succumb to **pressure** to date (whether ext/int)
 + Singles not **looking** for spouse:
-  + God has a **plan** for you, too
-  + come **back** to that later
+  + God has a **plan** for you, too (come **back** later)
 + Couples: **stuck**, done deal
   + but God has **promises** specifically about marriage
   + how our rl can **grow** in faith + obedience
-+ Parents: 
-  + what kind of **spouse** do we hope for our kids?
++ Parents: what kind of **spouse** hope for our kids?
 + Seniors: how **pass on** faith in God's promises
   + we've learned from **walking** w/Him?
 + The One who **determines** paths of our lives
@@ -137,22 +135,19 @@ only you must not take my son back there.”
   + Purpose (v10)
   + Prayer (v12-14)
   + Proposal (v22-49)
-4. Summary of Characters
 
 >>>
 + focus mostly on first **half**, for time's sake
-+ (1) even w/o specific **word** from God
-  + purpose not for our **happiness**
-  + **remember** our Creator, pass it on
++ (1) even w/o specific **regulation** from God
+  + purpose marriage not for our **happiness**
+  + but **remember** our Creator + pass it on
 + (2) dwell on God's **promises**:
   + knowing **who** He is gives us **confidence** / hope
   + even if people **choose** to reject His plan
   + God's **purposes** will prevail
 + (3) take **action** w/focus to see His promises fulfilled
-  + praying in faith that God will reveal His will
-  + being **honest** w/others: treating w/**honour**
-+ We can learn sth from **each** char
-  + but the real main char is **God**
+  + **praying** in faith that God will reveal His will
+  + offering honest **invitation** to join in God's promises
 + So what's the **setting** for today's passage?
 
 ---
@@ -162,16 +157,15 @@ And the Lord had **blessed** Abraham in all things.
 [Genesis 24:1 (ESV)](# "ref")
 
 >>>
-+ context: Abe **140yo**, still 35yrs left
-  + **Sarah** died 3yrs prior
++ Abe **140yo**, still 35yrs left
+  + wife **Sarah** died 3yrs prior
   + **Ishmael** 54yo, already sent away
 + now worrying about **Isaac** (40yo)
   + knows how important a good **wife** is!
 + But Abe's not main **character** of this story;
   + not **Rebekah**: does very little
   + not **Isaac**: does zero!
-+ majority of **text** describes
-  + what the **servant** does:
++ majority of **text** on actions of a **servant**:
 
 ---
 And Abraham said to his **servant**, <br>
@@ -185,7 +179,7 @@ who had **charge** of all that he had
 + probably **Eliezer** of Damascus (15:2)
   + with Abe for **longer** than Isaac alive
   + faithful + **trusted**
-+ now entrusted with even **greater** task
++ now Abe entrusts with even **greater** task
   + than overseeing all Abe's **possessions**
 
 ---
@@ -199,7 +193,7 @@ the God of **heaven** and God of the **earth**,
 >>>
 + hand under **thigh**: solemnity of oath
   + unique to **Bible**
-  + but also **Jacob** to Joseph (47:29)
+  + also **Jacob** to Joseph (47:29)
 + no evidence **Romans** did this
 + charge/task is really **important**
   + deals w/Abe's **progeny** / legacy
@@ -218,10 +212,9 @@ and take a wife for my son Isaac.
 
 >>>
 + Abe's goal: believing **wife** for Isaac
-+ Already sent **Hagar**+Ishmael away (ch21)
++ Already sent **Hagar** + Ishmael away (ch21)
   + as per God's **command** (Gal4:30-31)
-+ Ishmael's wife **Egyptian**
-  + found by **Hagar**
++ Ishmael's wife **Egyptian**, found by **Hagar**
   + Abe had no **hand** in it
 + So what's the **deal** w/marrying **kin**?
   + Do **Chinese** have to marry only Chinese?
@@ -244,9 +237,9 @@ Lamech -- *(182)* -- **Noah**
 + from beginning **all** knew Creator
   + not a **foreign** religion
   + orig. we could **walk** w/Him
-+ But mankind quickly **forgot** / left
++ But after **fall**, mankind quickly **forgot** / left
 + 1 **family line** that remembered God
-  + **10 gens** / 1000 yrs, Adam to Noah (birth)
+  + **10 gens** / 1000 yrs, Adam to birth of Noah
   + each gen **teaching** from father to son
 + In **Noah's** time, 
   + earth was **filled** w/violence, but
@@ -257,7 +250,8 @@ But Noah found **favor** in the eyes of the Lord.
 [Genesis 6:8 (ESV)](# "ref")
 
 >>>
-+ God had **mercy** on Noah + family (8 mouths)
++ God had **mercy** on Noah + family
+  + (8 mouths on a **boat**)
 + but **after** flood, mankind **again** left God
 + **Canaanites** in particular under God's curse:
 
@@ -290,8 +284,8 @@ Nahor -- *(29)* -- Terah -- *(70)* -- **Abram**
 
 >>>
 + 1 family line that **remembered** God
-  + 10 gens / 1000 yrs, Noah (birth) to Abe
-+ passed on **knowledge** of who God is
+  + 10 gens / 1000 yrs, birth Noah to birth Abe
++ passing on **knowledge** of who God is
   + from **father** to son
 + we see how **important** family is:
   + the **habits** we cultivate at home
@@ -331,20 +325,20 @@ and take a wife for my son Isaac.
 [Genesis 24:3-4 (ESV)](# "ref")
 
 >>>
-+ from the **lineage** of those who remember the Creator
++ from the **lineage** of those who remember Creator
 + find a **wife** who will help you to
   + **teach** next gen to remember God
   + good wife so **important**!
-+ same thing w/next gen **Jacob** / Esau 
++ same thing w/next gen **after** Isaac:
   + Jacob went to relatives at **Haran** for wife
   + Esau married 2 **Hittite** women
-+ not **legalistic** requirement:
++ Not **legalistic** require: not **codified** anywhere
   + **predates** Moses' law!
 + from the **beginning**, God has **revealed** Himself
-  + **chosen** to have mercy 
+  + and **chosen** to have mercy 
   + on a **remnant** who remembered Him
-+ so **revere** Him as holy in our homes
-  + **estab.** family w/spouse who also reveres Him
++ so we must **revere** Him as holy in our homes
+  + **estab.** family w/spouse who also reveres Him **//**
 
 ---
 This **mystery** is that <br>
@@ -382,7 +376,7 @@ in Christ Jesus through the gospel.
 + that He is **holy** + righteous
   + created us for **fellowship** w/Him
 + teach to **fear** + obey LORD
-  + **repent** of our sins
+  + **repent** of our sins + **return** to Him
 + show **mercy** to others
   + as **Christ** has to us
 
@@ -393,16 +387,16 @@ in Christ Jesus through the gospel.
 + to **happy singles**: whether teens, 20s, or up
 + first: today's passage **isn't** primarily
   + about how Isaac+Reb got **married**
-+ it's about **God's** faithfulness
-  + and taking **action** in light of His promises
++ it's about **God's** faithfulness, and how to
+  + take **action** in light of His promises
 + So all the real **lessons** from this ch
   + apply to **all** of us, single or married
-+ You're right that what principally **defines** you
-  + should not be one's **marital status**
-+ but: what principally defines you 
++ You're right that what principally **defines** one
+  + should not be one's **marital status**.
++ But: what principally defines you 
   + is not sth **you** can choose for yourself, either
 + You are, foremost, a **child** of God
-  + loved + adopted into His **family**
+  + loved + adopted into His **family** **//**
 
 ---
 The **unmarried** or betrothed woman is <br>
@@ -415,9 +409,10 @@ how to please her **husband**
 [1 Corinthians 7:34 (ESV)](# "ref")
 
 >>>
-+ you have a certain **freedom**:
++ you have a certain **freedom** as singles:
   + do not use it to **indulge** selfishness
 + but to be **undistracted** in devotion to God
+  + **[1 Cor 7]**
 + not just **working** hard to serve Him
   + e.g., **caring** for poor / seniors / orphans
 + but fully committed to **pursuing** holiness
@@ -435,17 +430,24 @@ how to please her **husband**
 + establish **family** that remembers Creator
 + **pass** it on to next gen
 
+**[4 count pause]**
+
 ---
 (outline 2)
 
 >>>
-+ in v5-8 we see Abe's **faith** in action
-+ remembering **who** made the promises
-+ gives us **confidence** + assurance
-+ each person can **choose** whether to be
-  + part of God's plan of **blessing**
++ in v1-4 we see **principle** of
+  + finding a **godly** wife
+  + to pass on the **remembrance** of the Creator
++ in v5-8 we see Abe's **faith** in action:
++ Remembering **who** made the promises
+  + gives us **confidence** + assurance
++ Each person can **choose** whether to be
+  + part of God's plan of **blessing** or not,
 + but that does not **thwart** God's plan
 + nor should it **paralyse** us with uncertainty
++ Abe emphasizes the **nature** of
+  + God, the **Promise**-Keeper:
 
 ---
 The Lord, the God of **heaven**, <br>
@@ -470,8 +472,8 @@ and who **spoke to me** and swore to me, <br>
 + you've **journeyed** in faith as Abe did
   + not knowing what **tomorrow** holds
   + but knowing **who** holds tomorrow
-+ not **empty** words you recite: you've **lived** it!
-  + same **confid** in God's power that Abe did
++ prom. not **empty** words you recite: you've **lived** it!
+  + have same **confid** in God's power Abe did
 
 ---
 Then the Lord **appeared** to Abram and said,<br>
@@ -504,10 +506,10 @@ may not be **willing** to follow me to this land."
   + being **shrewd**, plan contingency:
 + That's **great** that God promised a family legacy
   + but what if things **don't** go acc to plan?
-+ "the woman": **singular**
++ "Perhaps the woman": **singular**
   + imply not **ranking** candidates / going down list
-  + not **Eli.** choosing, but God
-+ Let's say God prepares **one** woman for Isaac
+  + not **Eliezer** choosing, but God
++ ok, let's say God prepares **one** woman for Isaac
   + and **leads** me to find her
 + God does **His** part, I've done **my** part
   + she still has **freewill** to refuse God's plan
@@ -520,12 +522,12 @@ and you **shall** take a wife for my son from there.
 [Genesis 24:7 (ESV)](# "ref")
 
 >>>
-+ no **doubt** that God would provide God-fearing wife
-  + therefore must **act** in that assurance
++ no **doubt** that God will provide God-fearing wife
+  + therefore **shall act** in that assurance
 + This isn't about **wishing** something to happen
   + doesn't rest on **strength** of our conviction
 + but on **faithfulness** of God to His promises
-+ Abe acks **freewill** of the woman
++ Abe acks **freewill** choice of the woman
   + and takes **pressure** off Eliezer:
 
 ---
@@ -540,9 +542,9 @@ then you will be **free** from this oath of mine
   + trust that God can still continue a family line
   + that **remembers** the Creator
 + but! won't need to **use** the contingency plan
-  + God will **provide**, as He always has
+  + God will **provide**, as He always has! 
 + So what about **us**?
-  + here's where **diverge** slightly from Isaac
+  + here's where **diverge** slightly from Isaac **//**
 
 ---
 And I will make of you a **great nation**, ...
@@ -554,7 +556,7 @@ shall be **blessed**.
 
 >>>
 + God gave Abe **specific** promise
-  + would become a vast **nation**
+  + would become a vast **nation** [Gen12]
 + so he **knew** family line would continue
 + That promise has been **fulfilled**
   + not only with **Isaac** + Rebekah
@@ -567,17 +569,18 @@ shall be **blessed**.
 >>>
 + but God can and does still **speak** to us
   + in our **specific** circumstances!
-+ e.g., **wife** + I
-  + not each other's **"type"**
-+ but God **sees** farther ahead
-  + and **deeper** into the soul than we do
++ e.g., **wife** + I met in **small group**: not our **"type"**
++ but God **sees** better than we do:
+  + both **farther** ahead + **deeper** into the soul
++ and God made His **choice** clear to us, so
 + our **choice** was not to choose the **person**
   + based on a list of matching **criteria**
-+ but we chose to say **yes** to God's plan
++ but we chose to say **yes** to God's choice
   + and hence **yes** to each other
 + still **struggles** all the time in marriage,
-  + but God doesn't make **mistakes**
-  + He doesn't **change** His mind:
+  + but I have never **once** doubted that
+  + supposed to be **married** to each other
++ God doesn't make **mistakes**, doesn't **change** mind:
 
 ---
 God is not **man**, that he should **lie**,<br>
@@ -605,21 +608,23 @@ Or has he **spoken**, and will he not **fulfill** it?
   + or even **get** married
 + but we **do** have God's promise through Christ
 + He established **times** + **places** for us to live (Ac17)
-+ **adopted** us into His family
++ **Adopted** us into His family
   + granted **inheritance** in heaven (Eph1)
-+ blessed us to become **blessing** to all nations
++ Blessed us to become **blessing** to all nations
+
+**[4 count pause]**
 
 ---
 (outline 3)
 
 >>>
-+ Following the **principle** of estab.
-  + families that **remember** the Creator
-+ Remembering **who** it is who gives us the **promises**
++ **Principle**: to establish families that
+  + **remember** the Creator
++ Remember **who** it is who gives the **promises**,
   + have full **assurance** of faith, even if
-  + God allows a **choice** to reject His blessings
+  + God allows **choice** to reject His blessings.
 + Now turn to **Eliezer** the servant to learn
-  + how to take **action** in light of God's faithfulness
+  + how to take **action** in light of God's faithfulness **//**
 
 ---
 And Abraham said to his **servant**, <br>
@@ -631,8 +636,8 @@ who had **charge** of all that he had
 >>>
 + most of us don't have dads **wealthy** enough
   + to have **trusted** servant to find spouse
-+ possible for **parents** to find spouse
-  + immense **responsibility**
++ Possible for **parents** to find spouse
+  + but immense **responsibility**:
 + to be **honest**, in individualistic society,
   + we no longer **know** our kids
   + as well as we ought
@@ -643,18 +648,18 @@ who had **charge** of all that he had
 (matchmakers)
 
 >>>
-+ e.g., **matchmakers**, church aunties
-  + or even **now**, want to help single friends:
-+ but marriage is **serious**, lifelong
++ e.g., when single: church aunties as **matchmakers**
+  + (not that I had **prospects**!)
++ or even **now**, want to help single friends:
+  + but think **twice** about matchmaking
++ Marriage is **serious**, lifelong commit.,
   + sign of **God's** covenant love
 + not to be **trifled** with
   + not, "oh, you two would be **cute** together"
-  + not so **I** take credit
-+ so the **task** of finding a spouse
-  + now typically falls to the **individual**
-+ so as we read Eliezer's **dedication** to his work
+  + not so **I** take credit, only God.
++ So as we read Eliezer's **dedication** to his task
   + **lessons** learned can apply to
-  + the **person** looking for a spouse
+  + anyone **looking** for God's guidance:
 
 ---
 Then the servant took <br>
@@ -674,7 +679,7 @@ to the city of **Nahor**.
   + several other **servants**, guards
 + much **preparation**, taking it **seriously**
 + would be **self-sufficient**
-  + able to draw water for camels
+  + able to draw own **water** for camels
 
 ---
 And he made the **camels** kneel down <br>
@@ -692,22 +697,25 @@ the time when **women** go out to draw water.
 + Eliezer was a **servant**: not looking for **himself**
   + but to fulfill solemn **oath**
   + and immense **task** given by master
-+ trust that **God** had already prepared **one**
-  + planning + earnest **intent**
++ didn't need the **odds** to be in his favour
+  + trust that **God** had already prepared **one**
++ showed **planning** + earnest **intent**
 
 ---
 (anecdote)
 
 >>>
-+ e.g., actually **praying** for a wife
++ e.g., when **single**, big step was starting to
+  + actually **pray** for a wife, **ask** for prayer
   + ack **want** to be married
 + not dreaming of what I **get** out of it
   + meeting my **needs**, companionship, etc
   + being able to **say** I have a bf/gf
 + but preparing for the **commitment**
-  + respect as **equal** but complementary
-+ and **ready** to move forward when God says go
-+ Later, when fam **reluctant** to let Reb go:
+  + respect spouse as **equal** but complementary
++ and **ready** to move forward when God says **go**
++ Later, when God made His choice **clear**,
+  + but fam **reluctant** to let Reb go:
 
 ---
 But he said to them, “Do not **delay** me, <br>
@@ -717,10 +725,13 @@ Send me **away** that I may go to my master.”
 [Genesis 24:56 (ESV)](# "ref")
 
 >>>
++ just the **next day** after meeting Reb! 
 + Once God made it **clear** who Isaac's wife would be
   + and she made her own **choice** to accept
-+ no **delay**, just move **forward**
++ No **delay**, just move **forward**
+  + bring **back** to Isaac
   + and indeed, Isaac accepted + **loved** her
++ Eliezer's **focus** on seeing God's promise **fulfilled**
 + Secondly, Eliezer **prayed**:
 
 ---
@@ -739,7 +750,8 @@ shown **steadfast love** to my master
 + who is LORD: God of Abe
   + able to grant **success** (for Eliezer)
   + the One who **appoints** spouse (for Isaac)
-  + shows chesed **love** (to Abe)
+  + shows steadfast **love** (to Abe)
+  + (**chesed**: covenant lovingkindness)
 + "Eliezer": my God is **help**
 + a note about drawing water for the **camels**:
 
@@ -758,12 +770,12 @@ and she drew for all his **camels**.
 + 20gal/camel: major **effort**
   + (ladies: beef up your **biceps**!)
   + or: show **kindness** to strangers
-+ this isn't to say Reb was more **noble** than other girls
++ This isn't to say Reb was more **noble** than other girls
   + focus not on Reb but **God's** faithfulness
-+ **filtering** criteria to narrow the selection
++ **Filtering** criteria to narrow the selection
   + Eliezer asking for a **sign**
   + to indicate God's **choice**
-+ and when God **answered** his prayer,
++ So when God **answered** his prayer,
   + what did he do **next**?
 
 ---
@@ -779,16 +791,17 @@ for us to spend the night?”
 
 >>>
 + 3 things he did **immediately**:
-+ gifts as **token** of earnestness
++ Gifts as **token** of earnestness
   + (not to **buy** favourable response)
   + he's off the **hook** if she refuses
-+ ask about her **family**:
++ Ask about her **family**:
   + (Bible doesn't even say he asked **her** name!)
   + specific plans to **meet** the family
 + thirdly:
 
 ---
-The man bowed his head and **worshiped** the Lord 
+The man bowed his head <br>
+and **worshiped** the Lord 
 
 [27](# "ref")
 and said, “**Blessed** be the Lord, <br>
@@ -802,7 +815,8 @@ and his **faithfulness** toward my master.
 >>>
 + **worship** God, thanksgiving
 + when God brings 2 ppl **together**
-  + is our response humble **worship**?
+  + is this our response: humble **worship**?
+  + what our **weddings** should be full of! 
 + Notice this repeated **refrain**:
   + God's **steadfast love** (chesed, covenant)
   + and **faithfulness** (truth)
@@ -819,15 +833,18 @@ I have **said** what I have to say.”
 [Genesis 24:33 (ESV)](# "ref")
 
 >>>
-+ **focused** on his mission, bc
++ **Focused** on his mission, bc
   + he knew it would affect **families** + lives
   + potentially even for **gens** to come
-+ **explain** entire journey: w/o **hiding** / duplicit
-+ then presented the **proposal** to them:
++ **Explained** entire task + journey: 
+  + w/o **hiding** / duplicit
+  + not to **persuade** or cajole
++ Then simply presented the **proposal** to them:
 
 ---
 Now then, if you are going to show <br>
-**steadfast love** and **faithfulness** to my master,<br>
+**steadfast love** and **faithfulness** to my master,
+
 tell me; and if not, tell me, that I may <br>
 turn to the **right** hand or to the **left**.
 
@@ -839,25 +856,39 @@ turn to the **right** hand or to the **left**.
   + now will **you**?
 + God made His **choice** clear
   + but **you** have a choice whether to accept or not
-+ either way, just **tell** me:
-  + if **no**, then I return to Abe empty-handed
-  + if **yes**, then I take Reb back to Isaac
++ The same **invitation** extends to us today:
+
+---
+# Am I **ready** to act when God **reveals** His will? 
+
+>>>
++ Whether in **marriage**, or career, moving house, ministry
++ **Preparation** in assurance of God's **promises**
++ A time of **prayer** + waiting,
+  + which may **seem** unending
++ But when God **speaks**, will I respond with
+  + immediate **action**,
+  + humble **worship**, and an
+  + open and honest **invitation** to 
+  + participate in God's miraculous **promises**?
+
+**[4 count pause]**
 
 ---
 (Rebekah and afterward)
 
 >>>
-+ not "happily ever after"
-  + 20yrs **infertility**
++ Isaac + Reb's story **not** "happily ever after"
+  + next ch: 20yrs **infertility**
   + difficult **pregnancy**
 + kids' sibling **rivalry**, parents' **favouritism**
-+ **Rebekah** not perfect wife, either:
++ Not like **Rebekah** was perfect wife, either:
   + "ribqah": alluring, **captivating**, cord tied firmly
   + as **baby**: so lovely, capture heart
 + as **adult**: can be dangerous
   + use God-given beauty to **bend** men to her will
 + **Jacob** ("grasps, deceives") / Israel ("wrestles w/God")
-  + inherited **similar** traits
+  + easy to see where got **scheming** nature from **//**
 
 ---
 **Blessed** be the Lord, <br>
@@ -869,13 +900,30 @@ and his **faithfulness** toward my master.
 [Genesis 24:27 (ESV)](# "ref")
 
 >>>
-+ focus not on how hard **Isaac** searched for wife
++ Focus not on how hard **Isaac** searched for wife
   + not on **Reb** being perfect wife for Isaac
-+ but **God's** chesed love: 
-  + faithful to promise to **Abe**
-  + led **Eliezer** to success
-  + prepared wife for **Isaac**
-  + and even more: generations afterward, whole nation
+  + not even **Abe's** faith or **Eliezer's** diligence
++ but **God's** chesed love, as in Eliezer's **prayer**: [v7] 
++ His faithfulness to His **promises**
+  + His **plan** from Abe to Isaac to Jacob
++ through both **royal** and **priestly** lines,
+  + on down to **Jesus**
+  + through whom **all nations** are blessed
++ Focus is on His **steadfast love** + **faithfulness**
+
+---
+>>>
++ **Families** remember our Creator
+  + **honour** You in our homes
++ **Remember** who You are as Promise-Keeper
+  + Creator, Shepherd, Father
++ **Trust** in Your promises completely
+  + even as You give each one a **choice**
+  + whether to obey or **refuse** Your blessing
++ **Prepare** selves w/focus + intent
+  + **praying** w/faith to see Your promises fulfilled
++ **extending** invitation that others may
+  + enter into Your **covenant love** + truth
 
 ---
 Characters
@@ -902,8 +950,4 @@ Hero of the story
 
 >>>
 + not about Abe's faith, servant's dilligence, Rebekah's bravery, Isaac's quiet times, etc.
-+ God's faithfulness to His promise
-  + His plan from Abe to Isaac to Jacob
-+ through both royal and priestly lines, on down to Jesus
-  + through whom all nations are blessed
 
