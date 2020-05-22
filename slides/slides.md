@@ -230,10 +230,10 @@ and take a wife for my son Isaac.
 When God **created** man, <br>
 he made him in the **likeness** of God.
 
-**Adam** -- *(130)* -- Seth -- *(105)* -- 
-Enosh -- *(90)* -- Kenan -- *(70)* -- 
-Mahalalel -- *(65)* -- Jared -- *(162)* --
-Enoch -- *(65)* -- Methuselah -- *(187)* -- 
+**Adam** -- *(130)* -- Seth -- *(105)* -- <br>
+Enosh -- *(90)* -- Kenan -- *(70)* -- <br>
+Mahalalel -- *(65)* -- Jared -- *(162)* --<br>
+Enoch -- *(65)* -- Methuselah -- *(187)* -- <br>
 Lamech -- *(182)* -- **Noah**
 
 [Genesis 5:1 (ESV)](# "ref")
@@ -274,9 +274,9 @@ shall he be to his brothers"
 + but once again, God preserved a **remnant**:
 
 ---
-Now the Lord said to **Abram**, <br>
-“**Go** from your country and your kindred and <br>
-your father's house to the **land** that I will show you."
+Now the Lord said to **Abram**, “**Go** from your <br>
+country and your kindred and your father's house <br>
+to the **land** that I will show you."
 
 **(Noah)** -- *(500)* -- Shem -- *(100)* --
 Arpachshad -- *(35)* -- Shelah -- *(30)* --
