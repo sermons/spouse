@@ -1,6 +1,7 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-llWjwo200fo-wedding_hands.jpg") %> id="title" -->
 # Finding a Spouse <br> in God's <br> Steadfast Love
 ## Genesis 24
+[Drew Coffman](https://unsplash.com/photos/llWjwo200fo "caption")
 
 >>>
 + In our series on book of **Genesis**,
@@ -37,12 +38,15 @@
 + Behold the Lamb of God **[ PRAYER ]**
 
 ---
+<!-- .slide: <%= bg("BibPano_Ruth_Boaz.jpg") %> -->
 ## Biblical Examples <br> of Finding a Spouse
 + Adam [(Gen 2:18-25)](# "ref")
 + Jacob [(Gen 28:1-5, 29:1-30)](# "ref")
 + Ruth
 + Hosea [(Hos 1-3)](# "ref")
 + Samson [(Jdg 14-16)](# "ref")
+
+["Ruth Gleans in the Fields of Boaz", <br> Bible Panorama, 1891](https://www.flickr.com/photos/internetarchivebookimages/14598288918 "caption")
 
 >>>
 + one of several **examples** in Bible,
@@ -59,7 +63,7 @@
   + **God's** faithfulness + steadfast love
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-llWjwo200fo-wedding_hands.jpg") %> id="outline" -->
 1. **Principle** [(v1-4)](# "ref")
 2. **Promise** [(v5-8)](# "ref")
   + Father of Promises [(v7a)](# "ref")
@@ -85,10 +89,12 @@
 + So what's the **setting** for today's passage?
 
 ---
+<!-- .slide: <%= bg("Caravaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
 Now Abraham was **old**, well advanced in years. <br>
 And the Lord had **blessed** Abraham in all things. 
 
 [Genesis 24:1 (ESV)](# "ref")
+[Caravaggio, "The Sacrifice of Isaac", 1603](http://www.caravaggio.org/the-sacrifice-of-isaac.jsp "caption")
 
 >>>
 + Abe **140yo**, still 35yrs left
@@ -367,7 +373,7 @@ how to please her **husband**
 **[4 count pause]**
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-llWjwo200fo-wedding_hands.jpg") %> -->
 1. Principle [(v1-4)](# "ref")
 2. **Promise** [(v5-8)](# "ref")
   + *Father of Promises* [(v7a)](# "ref")
@@ -558,7 +564,7 @@ Or has he **spoken**, and will he not **fulfill** it?
 **[4 count pause]**
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-llWjwo200fo-wedding_hands.jpg") %> -->
 1. Principle [(v1-4)](# "ref")
 2. Promise [(v5-8)](# "ref")
   + Father of Promises [(v7a)](# "ref")
@@ -864,6 +870,8 @@ and his **faithfulness** toward my master.
 + Focus is on His **steadfast love** + **faithfulness**
 
 ---
+<!-- .slide: <%= bg("unsplash-llWjwo200fo-wedding_hands.jpg") %> class="empty" -->
+
 >>>
 + **Families** remember our Creator
   + **honour** You in our homes
