@@ -108,11 +108,13 @@ And the Lord had **blessed** Abraham in all things.
 + majority of **text** on actions of a **servant**:
 
 ---
+<!-- .slide: <%= bg("Dyce-Eliezer_of_Damascus.jpg") %> -->
 And Abraham said to his **servant**, <br>
 the **oldest** of his household, <br>
 who had **charge** of all that he had
 
 [Genesis 24:2 (ESV)](# "ref")
+[Eliezer of Damascus, William Dyce, 1860](https://collections.artsmia.org/art/1647/eliezer-of-damascus-william-dyce "caption")
 
 >>>
 + (though even **he's** not the real main character)
@@ -123,12 +125,14 @@ who had **charge** of all that he had
   + than overseeing all Abe's **possessions**
 
 ---
+<!-- .slide: <%= bg("Dore-Isaac_Blesses_Jacob.jpg") %> -->
 Put your hand under my **thigh**, <br>
 [3](# "ref")
 that I may make you **swear** by the Lord, <br>
 the God of **heaven** and God of the **earth**, 
 
 [Genesis 24:2-3 (ESV)](# "ref")
+[Isaac Blesses Jacob, Gustave Doré, 1866](https://commons.wikimedia.org/wiki/File:020.Isaac_Blesses_Jacob.jpg "caption")
 
 >>>
 + hand under **thigh**: solemnity of oath
@@ -140,6 +144,7 @@ the God of **heaven** and God of the **earth**,
 + for servant, **failure** not an option
 
 ---
+<!-- .slide: <%= bg("Piazzetta-Rebecca_at_the_Well.jpg") %> -->
 that you will not take a **wife** for my son <br>
 from the daughters of the **Canaanites**, <br>
 among whom I dwell, 
@@ -149,6 +154,7 @@ but will go to my country and to my **kindred**, <br>
 and take a wife for my son Isaac.
 
 [Genesis 24:3-4 (ESV)](# "ref")
+[Rebecca at the Well, Giovanni Piazzetta, 1740](https://www.wga.hu/html/p/piazzett/giovanni/rebecca.html "caption")
 
 >>>
 + Abe's goal: believing **wife** for Isaac
@@ -185,9 +191,11 @@ Lamech -- *(182)* -- **Noah**
   + earth was **filled** w/violence, but
 
 ---
+<!-- .slide: <%= bg("Hans-wave-384385.jpg") %> -->
 But Noah found **favor** in the eyes of the Lord.
 
 [Genesis 6:8 (ESV)](# "ref")
+[Hans Braxmeier](https://pixabay.com/en/wave-sea-surf-swell-foam-spray-384385/ "caption")
 
 >>>
 + God had **mercy** on Noah + family
@@ -196,11 +204,13 @@ But Noah found **favor** in the eyes of the Lord.
 + **Canaanites** in particular under God's curse:
 
 ---
+<!-- .slide: <%= bg("unsplash-8EFA86nI6yg-desert_cracks.jpg") %> -->
 "Cursed be **Canaan**;<br>
 a **servant** of servants <br>
 shall he be to his brothers"
 
 [Genesis 9:25 (ESV)](# "ref")
+[Brad Helmink](https://unsplash.com/photos/8EFA86nI6yg "caption")
 
 >>>
 + From Canaan came the **Hittites** and other nations
