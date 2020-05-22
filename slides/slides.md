@@ -235,6 +235,7 @@ Enosh -- *(90)* -- Kenan -- *(70)* -- <br>
 Mahalalel -- *(65)* -- Jared -- *(162)* --<br>
 Enoch -- *(65)* -- Methuselah -- *(187)* -- <br>
 Lamech -- *(182)* -- **Noah**
+<!-- TODO: table -->
 
 [Genesis 5:1 (ESV)](# "ref")
 
@@ -614,6 +615,7 @@ Or has he **spoken**, and will he not **fulfill** it?
 + strategic in going to **well** at evening
 + earnest **intent**
   + (v33) focus on task first before food
+  + (v56) no delay since successful
 + e.g., actually **praying** for a wife
   + ack want to be married
 + not dreaming of what I **get** out of it
@@ -621,6 +623,21 @@ Or has he **spoken**, and will he not **fulfill** it?
   + being able to **say** I have a bf/gf
 + but preparing for the **commitment**
   + respect as equal but complementary
+
+---
+[54](# "ref")
+When they arose in the morning, <br>
+he said, “Send me away to my master.” 
+
+[55](# "ref")
+Her brother and her mother said, <br>
+“Let the young woman remain with us a while, <br>
+at least ten days; after that she may go.” 
+
+[56](# "ref")
+But he said to them, “Do not delay me, <br>
+since the Lord has prospered my way. <br>
+Send me away that I may go to my master.” 
 
 ---
 3b: Prayer (v12-14)
@@ -635,6 +652,31 @@ Or has he **spoken**, and will he not **fulfill** it?
   + Hebrew name, not Aramaic
 + **filtering** criteria to narrow the selection
   + 20gal/camel: major **effort**
+
+---
+[12](# "ref")
+O Lord, God of my master Abraham, <br>
+please grant me success today <br>
+and show steadfast love to my master Abraham. 
+
+[13](# "ref")
+Behold, I am standing by the spring of water, <br>
+and the daughters of the men of the city <br>
+are coming out to draw water. 
+
+---
+[14](# "ref")
+Let the young woman to whom I shall say, <br>
+‘Please let down your jar that I may drink,’ 
+
+and who shall say, <br>
+‘Drink, and I will water your camels’ --
+
+let her be the one whom you have appointed <br>
+for your servant Isaac. 
+
+By this I shall know that you have shown <br>
+steadfast love to my master.
 
 ---
 3c: Proposal (v22-49)
@@ -655,27 +697,11 @@ Or has he **spoken**, and will he not **fulfill** it?
   + but need to know
 
 ---
-(50-61 Rebekah's departure)
-
->>>
-+ LORD has spoken: so we cannot speak otherwise
-+ but still emotionally reluctant
-  + trad. weeks to several months preparation
-  + celebrations with friends commemorating end of singleness
-+ servant's focus: God has given success, now finish the job
-+ Rebekah's choice: knowing would likely never see home again
-+ also w/nurse (Deborah) and attendants
-  + even slower journey back to Canaan
-
----
-(62-67 Isaac's acceptance)
-
->>>
-+ meditate: regular habit
-  + more important what he **didn't** do:
-  + didn't take matters into own hands, e.g., Abe+Hagar
-+ aware of servant's mission + likely anxious
-+ immediately accepted her as wife, loved her, found comfort
+[49](# "ref")
+Now then, if you are going to show <br>
+steadfast love and faithfulness to my master,<br>
+tell me; and if not, tell me, that I may <br>
+turn to the right hand or to the left.
 
 ---
 Rebekah and afterward
@@ -732,51 +758,4 @@ Hero of the story
   + His plan from Abe to Isaac to Jacob
 + through both royal and priestly lines, on down to Jesus
   + through whom all nations are blessed
-
----
-[12](# "ref")
-O Lord, God of my master Abraham, <br>
-please grant me success today <br>
-and show steadfast love to my master Abraham. 
-
-[13](# "ref")
-Behold, I am standing by the spring of water, <br>
-and the daughters of the men of the city <br>
-are coming out to draw water. 
-
----
-[14](# "ref")
-Let the young woman to whom I shall say, <br>
-‘Please let down your jar that I may drink,’ 
-
-and who shall say, <br>
-‘Drink, and I will water your camels’ --
-
-let her be the one whom you have appointed <br>
-for your servant Isaac. 
-
-By this I shall know that you have shown <br>
-steadfast love to my master.
-
----
-[49](# "ref")
-Now then, if you are going to show <br>
-steadfast love and faithfulness to my master,<br>
-tell me; and if not, tell me, that I may <br>
-turn to the right hand or to the left.
-
----
-[54](# "ref")
-When they arose in the morning, <br>
-he said, “Send me away to my master.” 
-
-[55](# "ref")
-Her brother and her mother said, <br>
-“Let the young woman remain with us a while, <br>
-at least ten days; after that she may go.” 
-
-[56](# "ref")
-But he said to them, “Do not delay me, <br>
-since the Lord has prospered my way. <br>
-Send me away that I may go to my master.” 
 
