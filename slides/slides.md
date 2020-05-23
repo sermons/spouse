@@ -89,12 +89,12 @@
 + So what's the **setting** for today's passage?
 
 ---
-<!-- .slide: <%= bg("Caravaggio-Sacrifice_of_Isaac-1603.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-qKIaA41lMjM-alps.jpg") %> -->
 Now Abraham was **old**, well advanced in years. <br>
 And the Lord had **blessed** Abraham in all things. 
 
 [Genesis 24:1 (ESV)](# "ref")
-[Caravaggio, "The Sacrifice of Isaac", 1603](http://www.caravaggio.org/the-sacrifice-of-isaac.jsp "caption")
+[Brandenburg Alps, Austria.  Paul Gilmore](https://unsplash.com/photos/qKIaA41lMjM "caption")
 
 >>>
 + Abe **140yo**, still 35yrs left
@@ -144,7 +144,7 @@ the God of **heaven** and God of the **earth**,
 + for servant, **failure** not an option
 
 ---
-<!-- .slide: <%= bg("Piazzetta-Rebecca_at_the_Well.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-urfVdTSFKfo-girl_hair_flowers.jpg") %> -->
 that you will not take a **wife** for my son <br>
 from the daughters of the **Canaanites**, <br>
 among whom I dwell, 
@@ -154,7 +154,7 @@ but will go to my country and to my **kindred**, <br>
 and take a wife for my son Isaac.
 
 [Genesis 24:3-4 (ESV)](# "ref")
-[Rebecca at the Well, Giovanni Piazzetta, 1740](https://www.wga.hu/html/p/piazzett/giovanni/rebecca.html "caption")
+[Gdynia, Poland](https://unsplash.com/photos/urfVdTSFKfo "caption")
 
 >>>
 + Abe's goal: believing **wife** for Isaac
@@ -446,12 +446,12 @@ and who **spoke to me** and swore to me, <br>
   + have same **confid** in God's power Abe did
 
 ---
-<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-ocwmWiNAWGs-sunset_park.jpg") %> -->
 Then the Lord **appeared** to Abram and said,<br>
 “To your **offspring** I will give **this land**.”
 
 [Genesis 12:7 (ESV)](# "ref")
-[Avenue of the Giants, CA. John Towner](https://unsplash.com/photos/3Kv48NS4WUU "caption")
+[Jake Givens](https://unsplash.com/photos/ocwmWiNAWGs "caption")
 
 >>>
 + specific promise of **family lineage**
