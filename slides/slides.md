@@ -804,6 +804,7 @@ for us to spend the night?”
 + thirdly:
 
 ---
+<!-- .slide: <%= bg("bg/unsplash-fwWj5Y1IgQg-stars_forest_snow_carezza.jpg") %> -->
 The man bowed his head <br>
 and **worshiped** the Lord 
 
@@ -815,6 +816,7 @@ who has not forsaken his **steadfast love** <br>
 and his **faithfulness** toward my master.
 
 [Genesis 24:26-27 (ESV)](# "ref")
+[Lake of Carezza, Italy. Alessandro Viaro](https://unsplash.com/photos/fwWj5Y1IgQg "caption")
 
 >>>
 + **worship** God, thanksgiving
@@ -829,12 +831,14 @@ and his **faithfulness** toward my master.
 + Then, upon meeting Reb's **family**:
 
 ---
+<!-- .slide: <%= bg("unsplash-uhlTPoH2Eb0-banquet_dish_table.jpg") %> -->
 Then **food** was set before him to eat. 
 
 But he said, “I **will not eat** until <br>
 I have **said** what I have to say.” 
 
 [Genesis 24:33 (ESV)](# "ref")
+[Toa Heftiba](https://unsplash.com/photos/uhlTPoH2Eb0 "caption")
 
 >>>
 + **Focused** on his mission, bc
@@ -846,6 +850,7 @@ I have **said** what I have to say.”
 + Then simply presented the **proposal** to them:
 
 ---
+<!-- .slide: <%= bg("unsplash-u0vgcIOQG08-forest_road_fork.jpg") %> -->
 Now then, if you are going to show <br>
 **steadfast love** and **faithfulness** to my master,
 
@@ -853,6 +858,7 @@ tell me; and if not, tell me, that I may <br>
 turn to the **right** hand or to the **left**.
 
 [Genesis 24:49 (ESV)](# "ref")
+[Jens Lelie](https://unsplash.com/photos/u0vgcIOQG08 "caption")
 
 >>>
 + Same **themes**: 
@@ -895,6 +901,7 @@ turn to the **right** hand or to the **left**.
   + easy to see where got **scheming** nature from &rarr;
 
 ---
+<!-- .slide: <%= bg("bg/unsplash-fwWj5Y1IgQg-stars_forest_snow_carezza.jpg") %> -->
 **Blessed** be the Lord, <br>
 the God of my master Abraham, 
 
@@ -902,6 +909,7 @@ who has not forsaken his **steadfast love** <br>
 and his **faithfulness** toward my master.
 
 [Genesis 24:27 (ESV)](# "ref")
+[Lake of Carezza, Italy. Alessandro Viaro](https://unsplash.com/photos/fwWj5Y1IgQg "caption")
 
 >>>
 + Focus not on how hard **Isaac** searched for wife
