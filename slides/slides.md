@@ -1,7 +1,7 @@
-<!-- .slide: <%= bg("unsplash-llWjwo200fo-wedding_hands.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-5BB_atDT4oA-wedding_couple.jpg") %> id="title" -->
 # Finding a Spouse <br> in God's <br> Steadfast Love
 ## Genesis 24
-[Drew Coffman](https://unsplash.com/photos/llWjwo200fo "caption")
+[Nathan Dumlao](https://unsplash.com/photos/5BB_atDT4oA "caption")
 
 >>>
 + In our series on book of **Genesis**,
@@ -63,7 +63,7 @@
   + **God's** faithfulness + steadfast love
 
 ---
-<!-- .slide: <%= bg("unsplash-llWjwo200fo-wedding_hands.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-5BB_atDT4oA-wedding_couple.jpg") %> id="outline" -->
 1. **Principle** [(v1-4)](# "ref")
 2. **Promise** [(v5-8)](# "ref")
   + Father of Promises [(v7a)](# "ref")
@@ -391,7 +391,7 @@ how to please her **husband**
 **[4 count pause]**
 
 ---
-<!-- .slide: <%= bg("unsplash-llWjwo200fo-wedding_hands.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-5BB_atDT4oA-wedding_couple.jpg") %> -->
 1. Principle [(v1-4)](# "ref")
 2. **Promise** [(v5-8)](# "ref")
   + *Father of Promises* [(v7a)](# "ref")
@@ -596,7 +596,7 @@ Or has he **spoken**, and will he not **fulfill** it?
 **[4 count pause]**
 
 ---
-<!-- .slide: <%= bg("unsplash-llWjwo200fo-wedding_hands.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-5BB_atDT4oA-wedding_couple.jpg") %> -->
 1. Principle [(v1-4)](# "ref")
 2. Promise [(v5-8)](# "ref")
   + Father of Promises [(v7a)](# "ref")
@@ -925,7 +925,7 @@ and his **faithfulness** toward my master.
 + Focus is on His **steadfast love** + **faithfulness**
 
 ---
-<!-- .slide: <%= bg("unsplash-llWjwo200fo-wedding_hands.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-5BB_atDT4oA-wedding_couple.jpg") %> class="empty" -->
 
 >>>
 + **Families** remember our Creator
