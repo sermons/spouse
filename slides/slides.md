@@ -170,10 +170,10 @@ and take a wife for my son Isaac.
 When God **created** man, <br>
 he made him in the **likeness** of God.
 
-| **Adam** | *130* | Seth | 105 | Enosh | 90 |
-|---|---|---|---|---|---|
-| Kenan | 70 | Mahalalel | 65 | Jared | 162 |
-| Enoch | 65 | Methuselah | 187 | Lamech | 182 | 
+| **Adam** | *130* | Seth | *105* | Enosh | *90* |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Kenan | *70* | Mahalalel | *65* | Jared | *162* |
+| Enoch | *65* | Methuselah | *187* | Lamech | *182* | 
 | **Noah** | | | | | |
 
 [Genesis 5:1 (ESV)](# "ref")
@@ -561,6 +561,7 @@ shall be **blessed**.
 + God doesn't make **mistakes**, doesn't **change** mind:
 
 ---
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 God is not **man**, that he should **lie**,<br>
 or a son of man, <br>
 that he should **change** his mind.
@@ -569,6 +570,7 @@ Has he **said**, and will he not **do** it?<br>
 Or has he **spoken**, and will he not **fulfill** it?
 
 [Numbers 23:19 (ESV)](# "ref")
+[Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
 
 >>>
 + even Balaam the **unfaithful** prophet was used by God
@@ -614,11 +616,13 @@ Or has he **spoken**, and will he not **fulfill** it?
   + how to take **action** in light of God's faithfulness &rarr;
 
 ---
+<!-- .slide: <%= bg("Dyce-Eliezer_of_Damascus.jpg") %> -->
 And Abraham said to his **servant**, <br>
 the **oldest** of his household, <br>
 who had **charge** of all that he had
 
 [Genesis 24:2 (ESV)](# "ref")
+[Eliezer of Damascus, William Dyce, 1860](https://collections.artsmia.org/art/1647/eliezer-of-damascus-william-dyce "caption")
 
 >>>
 + most of us don't have dads **wealthy** enough
@@ -632,7 +636,7 @@ who had **charge** of all that he had
   + in the way we ought
 
 ---
-(matchmakers)
+(matchmaking)
 
 >>>
 + e.g., when single: church aunties as **matchmakers**
@@ -649,6 +653,7 @@ who had **charge** of all that he had
   + anyone **looking** for God's guidance:
 
 ---
+<!-- .slide: <%= bg("unsplash-UQJP4eEqRV0-camel_caravan.jpg") %> -->
 Then the servant took <br>
 ten of his master's **camels** and departed, <br>
 taking all sorts of choice **gifts** from his master; 
@@ -657,6 +662,7 @@ and he arose and went to **Mesopotamia** <br>
 to the city of **Nahor**.
 
 [Genesis 24:10 (ESV)](# "ref")
+[Dallol, Ethiopia. Trevor Cole](https://unsplash.com/photos/UQJP4eEqRV0 "caption")
 
 >>>
 + long distance, **weeks** of journey: 
@@ -669,6 +675,7 @@ to the city of **Nahor**.
   + able to draw own **water** for camels
 
 ---
+<!-- .slide: <%= bg("unsplash-Ht5XmeuLyDg-camel_mtns_silh.jpg") %> -->
 And he made the **camels** kneel down <br>
 outside the city by the **well** of water
 
@@ -676,6 +683,7 @@ at the time of **evening**, <br>
 the time when **women** go out to draw water. 
 
 [Genesis 24:11 (ESV)](# "ref")
+[Egypt. Mariam Soliman](https://unsplash.com/photos/Ht5XmeuLyDg "caption")
 
 >>>
 + strategic in going to **well** at evening
@@ -689,7 +697,7 @@ the time when **women** go out to draw water.
 + showed **planning** + earnest **intent**
 
 ---
-(anecdote)
+(praying for a spouse)
 
 >>>
 + e.g., when **single**, big step was starting to
@@ -705,11 +713,13 @@ the time when **women** go out to draw water.
   + but fam **reluctant** to let Reb go:
 
 ---
+<!-- .slide: <%= bg("West-Isaacs_Servant_Bracelet_Rebecca.jpg") %> -->
 But he said to them, “Do not **delay** me, <br>
 since the Lord has **prospered** my way. <br>
 Send me **away** that I may go to my master.” 
 
 [Genesis 24:56 (ESV)](# "ref")
+[Isaacs Servant Tying Bracelet on Rebeccas Arm, Benjamin West, 1775](http://collections.britishart.yale.edu/vufind/Record/1669171 "caption")
 
 >>>
 + just the **next day** after meeting Reb! 
