@@ -219,8 +219,9 @@ shall he be to his brothers"
 + but once again, God preserved a **remnant**:
 
 ---
-Now the Lord said to **Abram**, “**Go** from your <br>
-country and your kindred and your father's house <br>
+Now the Lord said to **Abram**, <br> 
+“**Go** from your country and your kindred <br>
+and your father's house <br>
 to the **land** that I will show you."
 
 | **Noah** | *500* | Shem | *100* | Arpachshad | *35* |
@@ -675,7 +676,7 @@ to the city of **Nahor**.
   + able to draw own **water** for camels
 
 ---
-<!-- .slide: <%= bg("unsplash-Ht5XmeuLyDg-camel_mtns_silh.jpg") %> -->
+<!-- .slide: <%= bg("Forder-Hagars_Well_Beersheba.jpg") %> -->
 And he made the **camels** kneel down <br>
 outside the city by the **well** of water
 
@@ -683,7 +684,7 @@ at the time of **evening**, <br>
 the time when **women** go out to draw water. 
 
 [Genesis 24:11 (ESV)](# "ref")
-[Egypt. Mariam Soliman](https://unsplash.com/photos/Ht5XmeuLyDg "caption")
+[Hagars Well in the Desert of Beersheba. Archibald Forder, 1863](https://www.flickr.com/photos/internetarchivebookimages/14767208571 "caption")
 
 >>>
 + strategic in going to **well** at evening
@@ -713,13 +714,13 @@ the time when **women** go out to draw water.
   + but fam **reluctant** to let Reb go:
 
 ---
-<!-- .slide: <%= bg("West-Isaacs_Servant_Bracelet_Rebecca.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-Ht5XmeuLyDg-camel_mtns_silh.jpg") %> -->
 But he said to them, “Do not **delay** me, <br>
 since the Lord has **prospered** my way. <br>
 Send me **away** that I may go to my master.” 
 
 [Genesis 24:56 (ESV)](# "ref")
-[Isaacs Servant Tying Bracelet on Rebeccas Arm, Benjamin West, 1775](http://collections.britishart.yale.edu/vufind/Record/1669171 "caption")
+[Egypt. Mariam Soliman](https://unsplash.com/photos/Ht5XmeuLyDg "caption")
 
 >>>
 + just the **next day** after meeting Reb! 
@@ -780,6 +781,7 @@ and she drew for all his **camels**.
   + what did he do **next**?
 
 ---
+<!-- .slide: <%= bg("West-Isaacs_Servant_Bracelet_Rebecca.jpg") %> -->
 The man took a **gold ring** weighing a half shekel, <br>
 and two **bracelets** for her arms <br>
 weighing ten gold shekels, [23](# "ref") and said, 
@@ -789,6 +791,7 @@ Is there room in your **father's house** <br>
 for us to spend the night?”
 
 [Genesis 24:22-23 (ESV)](# "ref")
+[Isaacs Servant Tying Bracelet on Rebeccas Arm, Benjamin West, 1775](http://collections.britishart.yale.edu/vufind/Record/1669171 "caption")
 
 >>>
 + 3 things he did **immediately**:
