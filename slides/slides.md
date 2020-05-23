@@ -804,7 +804,7 @@ for us to spend the night?”
 + thirdly:
 
 ---
-<!-- .slide: <%= bg("bg/unsplash-fwWj5Y1IgQg-stars_forest_snow_carezza.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-fwWj5Y1IgQg-stars_forest_snow_carezza.jpg") %> -->
 The man bowed his head <br>
 and **worshiped** the Lord 
 
@@ -901,7 +901,7 @@ turn to the **right** hand or to the **left**.
   + easy to see where got **scheming** nature from &rarr;
 
 ---
-<!-- .slide: <%= bg("bg/unsplash-fwWj5Y1IgQg-stars_forest_snow_carezza.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-fwWj5Y1IgQg-stars_forest_snow_carezza.jpg") %> -->
 **Blessed** be the Lord, <br>
 the God of my master Abraham, 
 
