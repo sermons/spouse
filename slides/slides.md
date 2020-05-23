@@ -223,11 +223,11 @@ Now the Lord said to **Abram**, “**Go** from your <br>
 country and your kindred and your father's house <br>
 to the **land** that I will show you."
 
-**(Noah)** -- *(500)* -- Shem -- *(100)* --
-Arpachshad -- *(35)* -- Shelah -- *(30)* --
-Eber -- *(34)* -- Peleg -- *(30)* --
-Reu -- *(32)* -- Serug -- *(30)* --
-Nahor -- *(29)* -- Terah -- *(70)* -- **Abram**
+| **Noah** | *500* | Shem | *100* | Arpachshad | *35* |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Shelah | *30* | Eber | *34* | Peleg | *30* |
+| Reu | *32* | Serug | *30* | Nahor | *29* |
+| Terah | *70* | **Abram** | | | |
 
 [Genesis 12:1, 11:10-26 (ESV)](# "ref")
 
@@ -732,6 +732,7 @@ Send me **away** that I may go to my master.”
 + Secondly, Eliezer **prayed**:
 
 ---
+<!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
 O Lord, God of my master Abraham, <br>
 please grant me **success** today ...
 
@@ -742,6 +743,7 @@ By this I shall know that you have <br>
 shown **steadfast love** to my master
 
 [Genesis 24:12,14 (ESV)](# "ref")
+[Ben White](https://unsplash.com/photos/bEbqpPeHEM4 "caption")
 
 >>>
 + who is LORD: God of Abe
@@ -753,6 +755,7 @@ shown **steadfast love** to my master
 + a note about drawing water for the **camels**:
 
 ---
+<!-- .slide: <%= bg("Murillo-Rebecca_Eliezer.jpg") %> -->
 She said, “I will draw water for your **camels** also,<br>
 until they have finished drinking.”
 
@@ -762,6 +765,7 @@ and **ran** again to the well to draw water, <br>
 and she drew for all his **camels**.
 
 [Genesis 24:19-20 (ESV)](# "ref")
+[Rebecca and Eliezer, Bartolomé Esteban Murillo, 1660](https://commons.wikimedia.org/wiki/File:Rebeca_y_Eliezer.jpg "caption")
 
 >>>
 + 20gal/camel: major **effort**
