@@ -783,7 +783,8 @@ and she drew for all his **camels**.
 
 ---
 <!-- .slide: <%= bg("West-Isaacs_Servant_Bracelet_Rebecca.jpg") %> -->
-The man took a **gold ring** weighing a half shekel, <br>
+The man took a **gold ring** <br>
+weighing a half shekel, <br>
 and two **bracelets** for her arms <br>
 weighing ten gold shekels, [23](# "ref") and said, 
 
