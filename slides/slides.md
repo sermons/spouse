@@ -869,6 +869,7 @@ turn to the **right** hand or to the **left**.
 + The same **invitation** extends to us today:
 
 ---
+<!-- .slide: data-background="white" -->
 # Am I **ready** to act when God **reveals** His will? 
 
 >>>
