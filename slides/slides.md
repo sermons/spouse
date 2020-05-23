@@ -170,11 +170,11 @@ and take a wife for my son Isaac.
 When God **created** man, <br>
 he made him in the **likeness** of God.
 
-| Adam | 130 | Seth | 105 | Enosh | 90 |
+| **Adam** | *130* | Seth | 105 | Enosh | 90 |
 |---|---|---|---|---|---|
 | Kenan | 70 | Mahalalel | 65 | Jared | 162 |
 | Enoch | 65 | Methuselah | 187 | Lamech | 182 | 
-| Noah | | | | | |
+| **Noah** | | | | | |
 
 [Genesis 5:1 (ESV)](# "ref")
 
@@ -444,12 +444,12 @@ and who **spoke to me** and swore to me, <br>
   + have same **confid** in God's power Abe did
 
 ---
-<!-- .slide: <%= bg("Foster-Jacobs_Ladder.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
 Then the Lord **appeared** to Abram and said,<br>
 “To your **offspring** I will give **this land**.”
 
 [Genesis 12:7 (ESV)](# "ref")
-[Jacobs Ladder, Foster 1897](http://associate.com/photos/Bible-Pictures--1897-W-A-Foster/page-0043-1.jpg "caption")
+[Avenue of the Giants, CA. John Towner](https://unsplash.com/photos/3Kv48NS4WUU "caption")
 
 >>>
 + specific promise of **family lineage**
@@ -488,10 +488,12 @@ may not be **willing** to follow me to this land."
 + Abe's **reply**: I know **who** it is who promises, and
 
 ---
+<!-- .slide: <%= bg("unsplash-74TufExdP3Y-sunlit-road.jpg") %> -->
 He **will** send His angel before you, <br>
 and you **shall** take a wife for my son from there.
 
 [Genesis 24:7 (ESV)](# "ref")
+[Chuckanut Mountain, US.  Patrick Fore](https://unsplash.com/photos/74TufExdP3Y "caption")
 
 >>>
 + no **doubt** that God will provide God-fearing wife
@@ -503,10 +505,12 @@ and you **shall** take a wife for my son from there.
   + and takes **pressure** off Eliezer:
 
 ---
+<!-- .slide: <%= bg("Rebecca_at_Well_1885.jpg") %> -->
 If the woman is **not willing** to follow you, <br>
 then you will be **free** from this oath of mine
 
 [Genesis 24:8 (ESV)](# "ref")
+[Rebecca at the Well. old Bible etching, 1885](https://www.flickr.com/photos/wonderlane/4675509353 "caption")
 
 >>>
 + free: clean, empty cup, **innocent** of wrong
@@ -519,12 +523,14 @@ then you will be **free** from this oath of mine
   + here's where **diverge** slightly from Isaac &rarr;
 
 ---
+<!-- .slide: <%= bg("unsplash-jG1z5o7NCq4-group_silhouette.jpg") %> -->
 And I will make of you a **great nation**, ...
 
 and in you all the **families** of the earth <br>
 shall be **blessed**.
 
 [Genesis 12:2,3 (ESV)](# "ref")
+[Mario Purisic](https://unsplash.com/photos/jG1z5o7NCq4 "caption")
 
 >>>
 + God gave Abe **specific** promise
@@ -536,7 +542,7 @@ shall be **blessed**.
   + extending **blessing** to all families of earth
 
 ---
-(anecdote)
+(God still speaks)
 
 >>>
 + but God can and does still **speak** to us
