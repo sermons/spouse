@@ -170,11 +170,12 @@ and take a wife for my son Isaac.
 When God **created** man, <br>
 he made him in the **likeness** of God.
 
-| **Adam** | *130* | Seth | *105* | Enosh | *90* |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Kenan | *70* | Mahalalel | *65* | Jared | *162* |
-| Enoch | *65* | Methuselah | *187* | Lamech | *182* | 
-| **Noah** | | | | | |
+| **Adam** | *130* | Seth | *105* | 
+|:---:|:---:|:---:|:---:|
+| Enosh | *90* | Kenan | *70* |
+| Mahalalel | *65* | Jared | *162* |
+| Enoch | *65* | Methuselah | *187* |
+| Lamech | *182* | **Noah** | |
 
 [Genesis 5:1 (ESV)](# "ref")
 
